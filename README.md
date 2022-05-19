@@ -227,6 +227,7 @@
 
 ## others 
 
+- [Mkv4/cobaltstrike-authfile-decrypt](https://github.com/Mkv4/cobaltstrike-authfile-decrypt) - Small tool to decrypt a Cobalt Strike auth file
 - [marksowell/stars](https://github.com/marksowell/stars) - A curated list of my GitHub stars!
 - [marksowell/nishang](https://github.com/marksowell/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [marksowell/Ckpt_Mike-](https://github.com/marksowell/Ckpt_Mike-) - 
