@@ -227,6 +227,7 @@
 
 ## others 
 
+- [marksowell/stars](https://github.com/marksowell/stars) - A curated list of my GitHub stars!
 - [marksowell/nishang](https://github.com/marksowell/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [marksowell/Ckpt_Mike-](https://github.com/marksowell/Ckpt_Mike-) - 
 - [marksowell/BrightTalk-video-downloader](https://github.com/marksowell/BrightTalk-video-downloader) - 
