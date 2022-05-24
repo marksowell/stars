@@ -8,6 +8,7 @@
 - [api](#api)
 - [awesome](#awesome)
 - [aws](#aws)
+- [azure](#azure)
 - [bash](#bash)
 - [c](#c)
 - [chrome](#chrome)
@@ -66,8 +67,14 @@
 
 ## aws 
 
+- [FSecureLABS/awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
+
+## azure 
+
+- [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 
 ## bash 
 
@@ -427,6 +434,7 @@
 
 ## security 
 
+- [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [Rices/Phishious](https://github.com/Rices/Phishious) - An open-source Secure Email Gateway (SEG) evaluation toolkit designed for red-teamers.
