@@ -235,6 +235,7 @@
 
 ## others 
 
+- [NetSPI/asa_tools](https://github.com/NetSPI/asa_tools) - Verification tools for CVE-2016-1287
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [clr2of8/GatherContacts](https://github.com/clr2of8/GatherContacts) - A Burp Suite Extension to pull Employee Names from Google and Bing LinkedIn Search Results
