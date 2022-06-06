@@ -237,6 +237,7 @@
 
 ## others 
 
+- [soufianetahiri/ContiLeaks](https://github.com/soufianetahiri/ContiLeaks) - 
 - [0xthirteen/MoveKit](https://github.com/0xthirteen/MoveKit) - Cobalt Strike kit for Lateral Movement
 - [NetSPI/asa_tools](https://github.com/NetSPI/asa_tools) - Verification tools for CVE-2016-1287
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
