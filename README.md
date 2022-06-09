@@ -237,6 +237,7 @@
 
 ## others 
 
+- [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [soufianetahiri/ContiLeaks](https://github.com/soufianetahiri/ContiLeaks) - 
 - [0xthirteen/MoveKit](https://github.com/0xthirteen/MoveKit) - Cobalt Strike kit for Lateral Movement
 - [NetSPI/asa_tools](https://github.com/NetSPI/asa_tools) - Verification tools for CVE-2016-1287
