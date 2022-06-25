@@ -51,6 +51,7 @@
 - [sql](#sql)
 - [terminal](#terminal)
 - [testing](#testing)
+- [vagrant](#vagrant)
 - [vue](#vue)
 - [web](#web)
 - [windows](#windows)
@@ -239,6 +240,7 @@
 
 ## others 
 
+- [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events
 - [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
 - [ForbiddenProgrammer/conti-pentester-guide-leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak) - Leaked pentesting manuals given to Conti ransomware crooks
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
@@ -415,6 +417,8 @@
 
 ## python 
 
+- [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
+- [uber-common/metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -456,6 +460,7 @@
 
 ## security 
 
+- [uber-common/metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
 - [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
@@ -513,6 +518,10 @@
 ## testing 
 
 - [sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder) - JustTryHarder, a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings)
+
+## vagrant 
+
+- [uber-common/metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
 
 ## vue 
 
