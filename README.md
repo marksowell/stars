@@ -240,6 +240,7 @@
 
 ## others 
 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events
 - [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
 - [ForbiddenProgrammer/conti-pentester-guide-leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak) - Leaked pentesting manuals given to Conti ransomware crooks
