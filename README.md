@@ -239,6 +239,8 @@
 
 ## others 
 
+- [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
+- [ForbiddenProgrammer/conti-pentester-guide-leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak) - Leaked pentesting manuals given to Conti ransomware crooks
 - [GossiTheDog/SystemNightmare](https://github.com/GossiTheDog/SystemNightmare) - Gives you instant SYSTEM command prompt on all supported and legacy versions of Windows
 - [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
 - [silence-is-best/files](https://github.com/silence-is-best/files) - 
