@@ -421,7 +421,7 @@
 
 - [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
 - [uber-common/metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
-- [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
+- [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
@@ -538,7 +538,7 @@
 
 ## windows 
 
-- [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
+- [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [mzfr/gtfo](https://github.com/mzfr/gtfo) - Search gtfobins and lolbas files from your terminal
