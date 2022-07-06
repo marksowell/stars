@@ -241,6 +241,7 @@
 
 ## others 
 
+- [zoom/zoomapps-sample-js](https://github.com/zoom/zoomapps-sample-js) - A Hello World Zoom App built with Vanilla JS
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets) - Re-play Security Events
 - [TheParmak/conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.
