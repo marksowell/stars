@@ -241,6 +241,8 @@
 
 ## others 
 
+- [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) - A simple text editor Zoom App that demonstrates Collaborate Mode
+- [zoom/zoomapps-customlayout-js](https://github.com/zoom/zoomapps-customlayout-js) - A simple podcaster Zoom App to demonstrate Immersive Mode through our Layers API
 - [zoom/api](https://github.com/zoom/api) - Zoom API Version 2 Documentation
 - [zoom/zoomapps-sample-js](https://github.com/zoom/zoomapps-sample-js) - A Hello World Zoom App built with Vanilla JS
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
