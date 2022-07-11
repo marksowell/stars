@@ -332,7 +332,6 @@
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
-- [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [DigiDNA/Silicon](https://github.com/DigiDNA/Silicon) - 
 - [dafthack/MailSniper](https://github.com/dafthack/MailSniper) - MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can b
@@ -462,6 +461,7 @@
 ## rust 
 
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
+- [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 
 ## security 
@@ -482,6 +482,7 @@
 - [cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner) - log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
@@ -544,6 +545,7 @@
 
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
+- [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) - Privilege Escalation Enumeration Script for Windows
 - [mzfr/gtfo](https://github.com/mzfr/gtfo) - Search gtfobins and lolbas files from your terminal
 - [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
