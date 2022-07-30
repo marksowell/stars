@@ -259,6 +259,7 @@
 
 ## others 
 
+- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
 - [zoom/webhook-sample-node.js](https://github.com/zoom/webhook-sample-node.js) - Receive Zoom Webhooks
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
 - [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) - A simple text editor Zoom App that demonstrates Collaborate Mode
