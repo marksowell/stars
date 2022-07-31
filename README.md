@@ -259,6 +259,7 @@
 
 ## others 
 
+- [zoom/zoom-oauth-sample-app](https://github.com/zoom/zoom-oauth-sample-app) - Sample Zoom Oauth App NodeJS app to call Zoom's APIs
 - [0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
 - [zoom/webhook-sample-node.js](https://github.com/zoom/webhook-sample-node.js) - Receive Zoom Webhooks
