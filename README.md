@@ -259,6 +259,7 @@
 
 ## others 
 
+- [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [zoom/zoomapps-advancedsample-react](https://github.com/zoom/zoomapps-advancedsample-react) - This repository contains an Advanced Zoom Apps Sample. It should serve as a starting point for you to build and test your own Zoom App in development.
 - [zoom/zoom-oauth-sample-app](https://github.com/zoom/zoom-oauth-sample-app) - Sample Zoom Oauth App NodeJS app to call Zoom's APIs
 - [0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
