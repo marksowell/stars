@@ -260,6 +260,7 @@
 
 ## others 
 
+- [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk extension for Visual Studio Code
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
