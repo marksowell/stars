@@ -260,6 +260,7 @@
 
 ## others 
 
+- [hmaverickadams/Windows-WiFi-Extractor](https://github.com/hmaverickadams/Windows-WiFi-Extractor) - Extract Windows Wi-Fi Passwords to Remote URL
 - [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk extension for Visual Studio Code
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
