@@ -21,6 +21,7 @@
 - [electron](#electron)
 - [flutter](#flutter)
 - [go](#go)
+- [golang](#golang)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -144,6 +145,18 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+
+## golang 
+
+- [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
+- [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
+- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [raz-varren/xsshell](https://github.com/raz-varren/xsshell) - An XSS reverse shell framework
+- [amine7536/reverse-scan](https://github.com/amine7536/reverse-scan) - Perform reverse DNS lookups on huge network ranges
+- [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+- [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
 ## google 
 
@@ -406,7 +419,6 @@
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [sirmspencer/vscode-autohide](https://github.com/sirmspencer/vscode-autohide) - 
-- [amine7536/reverse-scan](https://github.com/amine7536/reverse-scan) - Perform reverse DNS lookups on huge network ranges
 - [irsdl/IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8.3) disclosure vulnerability
 - [hmaverickadams/breach-parse](https://github.com/hmaverickadams/breach-parse) - A tool for parsing breached passwords
 - [fmaida/mkdocs-material-dark-theme](https://github.com/fmaida/mkdocs-material-dark-theme) - External SCSS/CSS file that can change the appearance of mkdocs-material theme and render it in dark colors.
