@@ -85,6 +85,7 @@
 
 ## bash 
 
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
@@ -559,6 +560,7 @@
 
 ## shell 
 
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [0x00-0x00/ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
@@ -570,6 +572,7 @@
 
 ## terminal 
 
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
 
