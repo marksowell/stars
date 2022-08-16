@@ -87,6 +87,7 @@
 
 ## azure 
 
+- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 
 ## bash 
@@ -151,6 +152,7 @@
 
 ## go 
 
+- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
 - [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
 - [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
