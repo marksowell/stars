@@ -293,6 +293,7 @@
 
 ## others 
 
+- [Karmaz95/crimson](https://github.com/Karmaz95/crimson) - Web Application Security Testing automation.
 - [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFU
 - [RobinMeis/MITMsmtp](https://github.com/RobinMeis/MITMsmtp) - MITMsmtp is an Evil SMTP Server for pentesting SMTP clients to catch login credentials and mails sent over plain or SSL encrypted connections.
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
