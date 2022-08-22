@@ -80,7 +80,7 @@
 
 ## aws 
 
-- [FSecureLABS/awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
