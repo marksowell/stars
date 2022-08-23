@@ -543,6 +543,7 @@
 
 ## security 
 
+- [dradis/dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Colllaboration and reporting for IT Security teams
 - [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
