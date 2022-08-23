@@ -40,6 +40,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
@@ -210,6 +211,7 @@
 
 ## ios 
 
+- [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
@@ -278,6 +280,10 @@
 ## material-design 
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+## mobile 
+
+- [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
 
 ## mongodb 
 
