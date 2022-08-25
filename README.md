@@ -306,6 +306,7 @@
 
 ## others 
 
+- [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [Karmaz95/crimson](https://github.com/Karmaz95/crimson) - Web Application Security Testing automation.
 - [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFU
