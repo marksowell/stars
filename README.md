@@ -306,7 +306,6 @@
 
 ## others 
 
-- [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [Karmaz95/crimson](https://github.com/Karmaz95/crimson) - Web Application Security Testing automation.
