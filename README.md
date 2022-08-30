@@ -306,6 +306,7 @@
 
 ## others 
 
+- [zoom/client-sdk-iOS-getting-started](https://github.com/zoom/client-sdk-iOS-getting-started) - 
 - [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
