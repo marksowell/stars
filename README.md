@@ -306,6 +306,8 @@
 
 ## others 
 
+- [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
+- [neil-wu/CatFrida](https://github.com/neil-wu/CatFrida) - CatFrida is a macOS tool for inspecting a running iOS app.
 - [zoom/meetingsdk-sample-signature-node.js](https://github.com/zoom/meetingsdk-sample-signature-node.js) - Generate a signature to Start and Join Meetings and Webinars with the Zoom Meeting SDKs.
 - [zoom/client-sdk-iOS-getting-started](https://github.com/zoom/client-sdk-iOS-getting-started) - 
 - [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy) - Install and debug iPhone apps from the command line, without using Xcode
