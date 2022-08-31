@@ -67,6 +67,7 @@
 
 ## android 
 
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 
 ## api 
@@ -211,6 +212,7 @@
 
 ## ios 
 
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
