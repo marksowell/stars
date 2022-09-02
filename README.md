@@ -310,6 +310,7 @@
 
 ## others 
 
+- [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [neil-wu/CatFrida](https://github.com/neil-wu/CatFrida) - CatFrida is a macOS tool for inspecting a running iOS app.
