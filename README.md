@@ -314,6 +314,7 @@
 
 ## others 
 
+- [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
 - [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
