@@ -215,6 +215,7 @@
 
 ## ios 
 
+- [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
@@ -314,6 +315,8 @@
 
 ## others 
 
+- [OWASP/iGoat-Swift](https://github.com/OWASP/iGoat-Swift) - OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS
+- [OWASP/igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
 - [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [mineek/sunst0rm](https://github.com/mineek/sunst0rm) - iOS Tether Downgrader
