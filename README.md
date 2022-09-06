@@ -215,6 +215,7 @@
 
 ## ios 
 
+- [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI app for saving SHSH blobs
 - [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
@@ -224,6 +225,7 @@
 
 ## java 
 
+- [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI app for saving SHSH blobs
 - [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
 
 ## javascript 
