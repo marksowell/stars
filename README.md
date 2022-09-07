@@ -185,6 +185,7 @@
 
 ## hacktoberfest 
 
+- [hintmedia/zoom_rb](https://github.com/hintmedia/zoom_rb) - Ruby API Wrapper for zoom.us API
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [BC-SECURITY/Starkiller](https://github.com/BC-SECURITY/Starkiller) - Starkiller is a Frontend for PowerShell Empire.
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a PowerShell and Python 3.x post-exploitation framework.
@@ -317,6 +318,7 @@
 
 ## others 
 
+- [mllocs/zoomus](https://github.com/mllocs/zoomus) - Ruby wrapper gem for zoom.us API.
 - [OWASP/iGoat-Swift](https://github.com/OWASP/iGoat-Swift) - OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS
 - [OWASP/igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
@@ -567,6 +569,7 @@
 
 ## ruby 
 
+- [hintmedia/zoom_rb](https://github.com/hintmedia/zoom_rb) - Ruby API Wrapper for zoom.us API
 - [jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) - Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 
