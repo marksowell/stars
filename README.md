@@ -318,6 +318,8 @@
 
 ## others 
 
+- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store
+- [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
 - [mllocs/zoomus](https://github.com/mllocs/zoomus) - Ruby wrapper gem for zoom.us API.
 - [OWASP/iGoat-Swift](https://github.com/OWASP/iGoat-Swift) - OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS
 - [OWASP/igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
