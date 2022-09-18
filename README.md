@@ -141,6 +141,7 @@
 
 ## documentation 
 
+- [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -322,6 +323,13 @@
 
 ## others 
 
+- [TheCase/IPMIView.app](https://github.com/TheCase/IPMIView.app) - MacOS App wrapper for Supermicro's IPMIView/iKVM java app
+- [CheckPointSW/ShowPolicyPackage](https://github.com/CheckPointSW/ShowPolicyPackage) - Check Point ShowPolicyPackage tool shows the content of a policy package (layers, rulebase, objects) over HTML pages.
+- [CheckPointSW/ExportObjects](https://github.com/CheckPointSW/ExportObjects) - Check Point ExportObjects tool enables you to export specific types of objects from a R80.10 and above Management database to a .csv file, which can then be imported into any other R80.10 and above Ma
+- [lgandx/Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
+- [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
+- [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+- [hmaverickadams/Practical-Ethical-Hacking-FAQ](https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ) - FAQ Guide for Practical Ethical Hacking Udemy Course
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [ElioFegh/zoom-jailbreak-detection-bypass](https://github.com/ElioFegh/zoom-jailbreak-detection-bypass) - hides jb popup from zoom app
 - [mechanico/Keychain-Dumper](https://github.com/mechanico/Keychain-Dumper) - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken
@@ -541,6 +549,7 @@
 
 ## python 
 
+- [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
@@ -565,6 +574,7 @@
 
 ## python3 
 
+- [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
 - [SoftDesLab/PIRANHA](https://github.com/SoftDesLab/PIRANHA) - Project for Software Design Laboratory -- Topic: Detecting Phishing Website with Machine Learning
 - [Liodeus/swaggerHole](https://github.com/Liodeus/swaggerHole) - A python3 script searching for secret on swaggerhub
