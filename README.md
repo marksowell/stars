@@ -325,6 +325,7 @@
 
 ## others 
 
+- [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [TheCase/IPMIView.app](https://github.com/TheCase/IPMIView.app) - MacOS App wrapper for Supermicro's IPMIView/iKVM java app
 - [CheckPointSW/ShowPolicyPackage](https://github.com/CheckPointSW/ShowPolicyPackage) - Check Point ShowPolicyPackage tool shows the content of a policy package (layers, rulebase, objects) over HTML pages.
