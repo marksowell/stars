@@ -264,7 +264,7 @@
 
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
 - [mzfr/gtfo](https://github.com/mzfr/gtfo) - Search gtfobins and lolbas files from your terminal
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -677,7 +677,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 
 ## testing 
 
