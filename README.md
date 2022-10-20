@@ -204,6 +204,7 @@
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [zaproxy/zap-extensions](https://github.com/zaproxy/zap-extensions) - OWASP ZAP Add-ons
+- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
@@ -503,7 +504,6 @@
 - [lijiejie/IIS_shortname_Scanner](https://github.com/lijiejie/IIS_shortname_Scanner) - an IIS shortname Scanner
 - [rharder/imagesnap](https://github.com/rharder/imagesnap) - Capture Images from the Command Line
 - [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers
-- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [sirmspencer/vscode-autohide](https://github.com/sirmspencer/vscode-autohide) - 
