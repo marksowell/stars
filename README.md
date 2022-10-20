@@ -484,7 +484,7 @@
 - [lgandx/PCredz](https://github.com/lgandx/PCredz) - This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
 - [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) - Next-Generation Linux Kernel Exploit Suggester
 - [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) - Linux privilege escalation auditing tool
-- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
+- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [cyberheartmi9/PayloadsAllTheThings](https://github.com/cyberheartmi9/PayloadsAllTheThings) - 
 - [bugcrowd/HUNT](https://github.com/bugcrowd/HUNT) - 
