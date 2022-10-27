@@ -394,7 +394,6 @@
 - [clr2of8/GatherContacts](https://github.com/clr2of8/GatherContacts) - A Burp Suite Extension to pull Employee Names from Google and Bing LinkedIn Search Results
 - [threatexpress/domainhunter](https://github.com/threatexpress/domainhunter) - Checks expired domains for categorization/reputation and Archive.org history to determine good candidates for phishing and C2 domain names
 - [NVISOsecurity/pyCobaltHound](https://github.com/NVISOsecurity/pyCobaltHound) - pyCobaltHound is an Aggressor script extension for Cobalt Strike which aims to provide a deep integration between Cobalt Strike and Bloodhound.
-- [Mkv4/cobaltstrike-authfile-decrypt](https://github.com/Mkv4/cobaltstrike-authfile-decrypt) - Small tool to decrypt a Cobalt Strike auth file
 - [marksowell/stars](https://github.com/marksowell/stars) - A curated list of my GitHub stars!
 - [marksowell/nishang](https://github.com/marksowell/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [marksowell/Ckpt_Mike-](https://github.com/marksowell/Ckpt_Mike-) - 
