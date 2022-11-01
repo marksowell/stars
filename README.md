@@ -429,7 +429,7 @@
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 - [marksowell/marksowell](https://github.com/marksowell/marksowell) - 
 - [extremenetworks/Virtual_EXOS](https://github.com/extremenetworks/Virtual_EXOS) - EXOS VM images are provided for testing in virtual environments such as Virtualbox or VMware.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [h4wkst3r/InvisibilityCloak](https://github.com/h4wkst3r/InvisibilityCloak) - Proof-of-concept obfuscation toolkit for C# post-exploitation tools
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) - A cheatsheet for exploiting server-side SVG processors.
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
