@@ -329,6 +329,7 @@
 
 ## others 
 
+- [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [0xTRAW/Cybersecurity-Roadmap](https://github.com/0xTRAW/Cybersecurity-Roadmap) - 
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
