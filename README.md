@@ -69,7 +69,7 @@
 ## android 
 
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
-- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 
 ## api 
 
@@ -264,7 +264,7 @@
 
 ## linux 
 
-- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
@@ -559,7 +559,7 @@
 
 - [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
-- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
 - [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
 - [uber-common/metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
@@ -663,7 +663,7 @@
 
 ## shell 
 
-- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -703,7 +703,7 @@
 ## windows 
 
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
-- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
