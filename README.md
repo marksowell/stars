@@ -330,6 +330,7 @@
 
 ## others 
 
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [Kris-Sekula/UCS-KVM](https://github.com/Kris-Sekula/UCS-KVM) - Some tips on getting into a UCS KVM without Adobe Flash Installed
 - [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
