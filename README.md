@@ -519,7 +519,6 @@
 - [praetorian-inc/Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 - [frizb/Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation) - Windows Privilege Escalation Techniques and Scripts
 - [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
-- [sdcampbell/Internal-Pentest-Playbook](https://github.com/sdcampbell/Internal-Pentest-Playbook) - Internal Network Penetration Test Playbook
 - [hmaverickadams/External-Pentest-Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist) - 
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 - [hausec/ADAPE-Script](https://github.com/hausec/ADAPE-Script) - Active Directory Assessment and Privilege Escalation Script
