@@ -336,6 +336,7 @@
 
 ## others 
 
+- [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) - 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [Kris-Sekula/UCS-KVM](https://github.com/Kris-Sekula/UCS-KVM) - Some tips on getting into a UCS KVM without Adobe Flash Installed
