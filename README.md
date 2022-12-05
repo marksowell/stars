@@ -69,6 +69,7 @@
 
 ## android 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
@@ -239,6 +240,7 @@
 
 ## java 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI app for saving SHSH blobs
 - [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
 
