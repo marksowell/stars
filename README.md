@@ -336,6 +336,7 @@
 
 ## others 
 
+- [Sambal0x/firebaseEnum](https://github.com/Sambal0x/firebaseEnum) - Tool to mass analyse potentially exposed Firebase databases on Android apps
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) - 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
