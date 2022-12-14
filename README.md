@@ -46,6 +46,7 @@
 - [mysql](#mysql)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [open-source](#open-source)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -336,6 +337,10 @@
 
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+## open-source 
+
+- [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
 
 ## others 
 
