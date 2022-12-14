@@ -339,6 +339,8 @@
 
 ## others 
 
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - Flipper Zero FW [ROGUEMASTER]
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [Sambal0x/firebaseEnum](https://github.com/Sambal0x/firebaseEnum) - Tool to mass analyse potentially exposed Firebase databases on Android apps
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
