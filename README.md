@@ -350,6 +350,7 @@
 
 ## others 
 
+- [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [hax0rgb/InsecureShop](https://github.com/hax0rgb/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin.
 - [payatu/diva-android](https://github.com/payatu/diva-android) - DIVA Android - Damn Insecure and vulnerable App for Android
 - [oversecured/ovaa](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App
