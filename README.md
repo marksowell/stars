@@ -350,6 +350,7 @@
 
 ## others 
 
+- [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) - 
 - [tjcim/request_smuggling_calculator](https://github.com/tjcim/request_smuggling_calculator) - 
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [hax0rgb/InsecureShop](https://github.com/hax0rgb/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin.
