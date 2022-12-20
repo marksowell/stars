@@ -350,6 +350,7 @@
 
 ## others 
 
+- [dhmosfunk/BSCP](https://github.com/dhmosfunk/BSCP) - This repository contains BSCP Methodology and different information about the Burp Suite Certified Practitioner extracted from practice exam & academy labs. Feel free to contribute with a pull request
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) - 
 - [tjcim/request_smuggling_calculator](https://github.com/tjcim/request_smuggling_calculator) - 
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
