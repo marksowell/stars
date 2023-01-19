@@ -365,6 +365,7 @@
 
 ## others 
 
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [dhmosfunk/BSCP](https://github.com/dhmosfunk/BSCP) - This repository contains BSCP Methodology and different information about the Burp Suite Certified Practitioner extracted from practice exam & academy labs. Feel free to contribute with a pull request
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) - 
 - [tjcim/request_smuggling_calculator](https://github.com/tjcim/request_smuggling_calculator) - 
