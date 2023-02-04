@@ -365,6 +365,7 @@
 
 ## others 
 
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [zoom/zoom-sdk-android](https://github.com/zoom/zoom-sdk-android) - Zoom Android SDK
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [dhmosfunk/BSCP](https://github.com/dhmosfunk/BSCP) - This repository contains BSCP Methodology and different information about the Burp Suite Certified Practitioner extracted from practice exam & academy labs. Feel free to contribute with a pull request
