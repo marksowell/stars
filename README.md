@@ -53,6 +53,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [powershell](#powershell)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -608,6 +609,14 @@
 ## package-manager 
 
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
+
+## powershell 
+
+- [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
+- [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
+- [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
+- [get-get-get-get/PowerProxy](https://github.com/get-get-get-get/PowerProxy) - PowerShell SOCKS proxy with reverse proxy capabilities
+- [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 
 ## pwa 
 
