@@ -52,6 +52,7 @@
 - [mysql](#mysql)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [npm](#npm)
 - [open-source](#open-source)
 - [others](#others)
 - [p2p](#p2p)
@@ -299,6 +300,7 @@
 
 ## javascript 
 
+- [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [dsternlicht/RESTool](https://github.com/dsternlicht/RESTool) - RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example:
@@ -389,6 +391,7 @@
 
 ## nodejs 
 
+- [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256 JWT token brute force cracker
@@ -397,6 +400,10 @@
 
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+## npm 
+
+- [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 
 ## open-source 
 
@@ -647,6 +654,7 @@
 
 ## package-manager 
 
+- [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 
 ## powershell 
@@ -699,6 +707,7 @@
 
 ## react 
 
+- [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 
