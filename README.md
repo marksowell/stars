@@ -31,6 +31,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
@@ -101,6 +102,7 @@
 
 ## awesome 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -242,6 +244,10 @@
 
 - [xHak9x/SocialPhish](https://github.com/xHak9x/SocialPhish) - The most complete Phishing Tool, with 32 templates +1 customizable
 
+## graphql 
+
+- [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) - The Black Hat GraphQL Book Repository
+
 ## hacktoberfest 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -353,6 +359,7 @@
 
 ## macos 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -412,6 +419,7 @@
 
 ## others 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [OWASP/www-members](https://github.com/OWASP/www-members) - 
 - [Orange-Cyberdefense/ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) - Orange Cyberdefense mindmaps
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
