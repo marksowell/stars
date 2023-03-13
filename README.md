@@ -469,6 +469,7 @@
 
 ## others 
 
+- [sAjibuu/upload_bypass](https://github.com/sAjibuu/upload_bypass) - File upload restrictions bypass, by using different bug bounty techniques!
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) - Web dashboard for Interactsh client
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [OWASP/www-members](https://github.com/OWASP/www-members) - 
