@@ -796,6 +796,7 @@
 
 ## security 
 
+- [akto-api-security/tests-library](https://github.com/akto-api-security/tests-library) - Community generated list of API security tests to find OWASP top10, HackerOne top 10 vulnerabilities
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Instant API security through API discovery, automated business logic testing and runtime detection.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Cyber-Buddy/APKHunt](https://github.com/Cyber-Buddy/APKHunt) - APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although APKHunt is intended primarily for mobile app developers and security testers,
