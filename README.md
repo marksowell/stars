@@ -275,6 +275,7 @@
 - [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
 - [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+- [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [raz-varren/xsshell](https://github.com/raz-varren/xsshell) - An XSS reverse shell framework
 - [amine7536/reverse-scan](https://github.com/amine7536/reverse-scan) - Perform reverse DNS lookups on huge network ranges
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
