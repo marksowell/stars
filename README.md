@@ -104,6 +104,8 @@
 
 ## api 
 
+- [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
+- [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) - A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
@@ -293,6 +295,7 @@
 
 ## hacktoberfest 
 
+- [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -472,6 +475,7 @@
 
 ## others 
 
+- [Checkmarx/capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 - [HolyBugx/Demystifying-Cookies-and-Tokens-Security](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security) - Learn Cookies and Tokens Security in Practice.
 - [sAjibuu/upload_bypass](https://github.com/sAjibuu/upload_bypass) - File upload restrictions bypass, by using different bug bounty techniques!
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) - Web dashboard for Interactsh client
@@ -801,6 +805,7 @@
 
 ## security 
 
+- [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [inonshk/31-days-of-API-Security-Tips](https://github.com/inonshk/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) - A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 - [akto-api-security/tests-library](https://github.com/akto-api-security/tests-library) - Community generated list of API security tests to find OWASP top10, HackerOne top 10 vulnerabilities
