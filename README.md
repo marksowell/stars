@@ -32,6 +32,7 @@
 - [express](#express)
 - [firebase](#firebase)
 - [flutter](#flutter)
+- [framework](#framework)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -268,6 +269,10 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+
+## framework 
+
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 
 ## git 
 
@@ -813,6 +818,7 @@
 
 ## rust 
 
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [bee-san/Ares](https://github.com/bee-san/Ares) - Automated decoding of encrypted text without knowing the key or ciphers used
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
@@ -921,6 +927,7 @@
 
 ## web 
 
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) - A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
