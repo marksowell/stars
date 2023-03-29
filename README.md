@@ -796,7 +796,6 @@
 - [byt3bl33d3r/WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
 - [SoftDesLab/PIRANHA](https://github.com/SoftDesLab/PIRANHA) - Project for Software Design Laboratory -- Topic: Detecting Phishing Website with Machine Learning
 - [Liodeus/swaggerHole](https://github.com/Liodeus/swaggerHole) - A python3 script searching for secret on swaggerhub
-- [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
 - [get-get-get-get/PowerProxy](https://github.com/get-get-get-get/PowerProxy) - PowerShell SOCKS proxy with reverse proxy capabilities
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 
