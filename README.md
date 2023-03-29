@@ -155,7 +155,7 @@
 
 - [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
-- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
+- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - (End of life: May 31, 2023) AWS Toolkit for Eclipse
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 
 ## azure 
@@ -344,7 +344,7 @@
 - [sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder) - JustTryHarder, a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
+- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - (End of life: May 31, 2023) AWS Toolkit for Eclipse
 
 ## html 
 
@@ -374,7 +374,7 @@
 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI and CLI app for automatically saving SHSH blobs
-- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - AWS Toolkit for Eclipse – an open-source plugin for developing, deploying, and managing AWS applications.
+- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - (End of life: May 31, 2023) AWS Toolkit for Eclipse
 
 ## javascript 
 
