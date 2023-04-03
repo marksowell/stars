@@ -780,7 +780,7 @@
 - [superhedgy/AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper) - AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
-- [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner
+- [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and YARA Scanner
 - [aress31/jwtcat](https://github.com/aress31/jwtcat) - A CPU-based JSON Web Token (JWT) cracker and - to some extent - scanner.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
