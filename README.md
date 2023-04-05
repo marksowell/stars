@@ -571,7 +571,7 @@
 - [zoom/zoom-oauth-sample-app](https://github.com/zoom/zoom-oauth-sample-app) - Sample Zoom Oauth App NodeJS app to call Zoom's APIs
 - [0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
-- [zoom/webhook-sample-node.js](https://github.com/zoom/webhook-sample-node.js) - Receive Zoom webhooks.
+- [zoom/webhook-sample](https://github.com/zoom/webhook-sample) - Receive Zoom webhooks.
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
 - [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) - A simple text editor Zoom App that demonstrates Collaborate Mode
 - [zoom/zoomapps-customlayout-js](https://github.com/zoom/zoomapps-customlayout-js) - A simple podcaster Zoom App to demonstrate Immersive Mode through our Layers API
