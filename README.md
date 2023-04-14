@@ -572,7 +572,7 @@
 - [zoom/zoomapps-advancedsample-react](https://github.com/zoom/zoomapps-advancedsample-react) - This repository contains an Advanced Zoom Apps Sample. It should serve as a starting point for you to build and test your own Zoom App in development.
 - [zoom/zoom-oauth-sample-app](https://github.com/zoom/zoom-oauth-sample-app) - Sample Zoom Oauth App NodeJS app to call Zoom's APIs
 - [0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
+- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Official and free cross-platform GUI for Redis. RedisInsight provides an intuitive and efficient UI for Redis and Redis Stack and supports CLI interaction in a fully-featured desktop UI client.
 - [zoom/webhook-sample](https://github.com/zoom/webhook-sample) - Receive Zoom webhooks.
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
 - [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) - A simple text editor Zoom App that demonstrates Collaborate Mode
