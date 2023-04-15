@@ -23,7 +23,6 @@
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
-- [data](#data)
 - [database](#database)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -216,13 +215,8 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
-## data 
-
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
-
 ## database 
 
-- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
