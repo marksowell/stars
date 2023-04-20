@@ -492,6 +492,7 @@
 
 ## others 
 
+- [marksowell/Findings-Tracker](https://github.com/marksowell/Findings-Tracker) - Burp Suite extension designed to help security professionals manage and track web application security findings efficiently
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [marksowell/Info-Leakage](https://github.com/marksowell/Info-Leakage) - Burp Extension to search for custom sensitive information in HTTP responses
 - [akto-api-security/akto-burp-extension](https://github.com/akto-api-security/akto-burp-extension) - A Burp extension to send data to Akto dashboard
