@@ -494,7 +494,7 @@
 
 - [marksowell/Findings-Tracker](https://github.com/marksowell/Findings-Tracker) - Burp Suite extension designed to help security professionals manage and track web application security findings efficiently
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [marksowell/Info-Leakage](https://github.com/marksowell/Info-Leakage) - Burp Extension to search for custom sensitive information in HTTP responses
+- [marksowell/Info-Leakage](https://github.com/marksowell/Info-Leakage) - Burp Suite extension to search for custom sensitive information in HTTP responses
 - [akto-api-security/akto-burp-extension](https://github.com/akto-api-security/akto-burp-extension) - A Burp extension to send data to Akto dashboard
 - [Checkmarx/capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 - [HolyBugx/Demystifying-Cookies-and-Tokens-Security](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security) - Learn Cookies and Tokens Security in Practice.
