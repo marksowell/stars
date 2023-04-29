@@ -492,6 +492,7 @@
 
 ## others 
 
+- [nchah/github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
 - [guerreroag12/SSH_Brute_Force](https://github.com/guerreroag12/SSH_Brute_Force) - A simple python ssh brute forcer
 - [marksowell/Findings-Tracker](https://github.com/marksowell/Findings-Tracker) - Burp Suite extension designed to help security professionals manage and track web application security findings
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
