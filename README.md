@@ -492,6 +492,7 @@
 
 ## others 
 
+- [marksowell/SSL-Labs-Screenshot](https://github.com/marksowell/SSL-Labs-Screenshot) - A Python package to capture a trimmed screenshot of the SSL Labs report for a given domain.
 - [nchah/github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
 - [guerreroag12/SSH_Brute_Force](https://github.com/guerreroag12/SSH_Brute_Force) - A simple python ssh brute forcer
 - [marksowell/Findings-Tracker](https://github.com/marksowell/Findings-Tracker) - Burp Suite extension designed to help security professionals manage and track web application security findings
@@ -827,6 +828,7 @@
 
 ## security 
 
+- [marksowell/Clickjacking-POC](https://github.com/marksowell/Clickjacking-POC) - A Python package for creating a clickjacking proof of concept (POC).
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [inonshk/31-days-of-API-Security-Tips](https://github.com/inonshk/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) - A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
