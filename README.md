@@ -373,6 +373,7 @@
 
 ## java 
 
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI and CLI app for automatically saving SHSH blobs
 - [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - (End of life: May 31, 2023) AWS Toolkit for Eclipse
