@@ -167,6 +167,7 @@
 
 ## bash 
 
+- [RealityNet/ios_triage](https://github.com/RealityNet/ios_triage) - Bash script to extract data from a "chekcra1ned" iOS device
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -388,6 +389,7 @@
 
 ## ios 
 
+- [RealityNet/ios_triage](https://github.com/RealityNet/ios_triage) - Bash script to extract data from a "chekcra1ned" iOS device
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -532,6 +534,8 @@
 
 ## others 
 
+- [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
+- [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
 - [zoom/zoom-bot-demo](https://github.com/zoom/zoom-bot-demo) - Please visit our new vote-chatbot NPM sample app.
 - [zoom/zoomapps-serverless-vuejs](https://github.com/zoom/zoomapps-serverless-vuejs) - A Serverless Zoom App built on Firebase for Zoomtopia 2022 and beyond!
