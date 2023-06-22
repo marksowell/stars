@@ -534,6 +534,8 @@
 
 ## others 
 
+- [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
+- [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
 - [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
@@ -872,6 +874,7 @@
 
 ## security 
 
+- [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
 - [marksowell/Clickjacking-POC](https://github.com/marksowell/Clickjacking-POC) - A Python package for creating a clickjacking proof of concept (POC).
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [inonshk/31-days-of-API-Security-Tips](https://github.com/inonshk/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
