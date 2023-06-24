@@ -875,6 +875,7 @@
 
 ## security 
 
+- [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - Fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike.
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
 - [marksowell/Clickjacking-POC](https://github.com/marksowell/Clickjacking-POC) - A Python package for creating a clickjacking proof of concept (POC).
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
