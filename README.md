@@ -81,6 +81,7 @@
 - [shell](#shell)
 - [sql](#sql)
 - [swift](#swift)
+- [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
 - [vagrant](#vagrant)
@@ -274,6 +275,7 @@
 
 ## framework 
 
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 
 ## git 
@@ -384,6 +386,7 @@
 
 ## http 
 
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [carlospolop/fuzzhttpbypass](https://github.com/carlospolop/fuzzhttpbypass) - This tool use fuuzzing to try to bypass unknown authentication methods, who knows...
 
@@ -534,6 +537,7 @@
 
 ## others 
 
+- [AppSecExplained/xss-playground](https://github.com/AppSecExplained/xss-playground) - A basic webapp to test XSS payloads.
 - [zoom/zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) - Zoom Cryptography Whitepaper
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
@@ -931,6 +935,7 @@
 
 ## server 
 
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 
@@ -955,8 +960,13 @@
 
 ## swift 
 
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
+
+## telegram 
+
+- [projectdiscovery/notify](https://github.com/projectdiscovery/notify) - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 
 ## terminal 
 
