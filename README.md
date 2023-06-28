@@ -537,6 +537,7 @@
 
 ## others 
 
+- [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [AppSecExplained/xss-playground](https://github.com/AppSecExplained/xss-playground) - A basic webapp to test XSS payloads.
 - [zoom/zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) - Zoom Cryptography Whitepaper
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
