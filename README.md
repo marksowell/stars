@@ -84,6 +84,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
+- [typescript](#typescript)
 - [vagrant](#vagrant)
 - [vue](#vue)
 - [web](#web)
@@ -93,6 +94,7 @@
 
 ## android 
 
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
@@ -393,6 +395,7 @@
 ## ios 
 
 - [RealityNet/ios_triage](https://github.com/RealityNet/ios_triage) - Bash script to extract data from a "chekcra1ned" iOS device
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -848,6 +851,7 @@
 
 ## react 
 
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -979,6 +983,10 @@
 ## testing 
 
 - [sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder) - JustTryHarder, a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings)
+
+## typescript 
+
+- [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 
 ## vagrant 
 
