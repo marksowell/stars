@@ -541,6 +541,7 @@
 
 ## others 
 
+- [darklotuskdb/ios-reloader](https://github.com/darklotuskdb/ios-reloader) - The iOS Reloader is a weaponizing tool for jailbroken iOS devices. It facilitates the installation of a collection of tools on iOS devices (iPhone/iPad) that are essential for penetration testing purp
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [AppSecExplained/xss-playground](https://github.com/AppSecExplained/xss-playground) - A basic webapp to test XSS payloads.
 - [zoom/zoom-e2e-whitepaper](https://github.com/zoom/zoom-e2e-whitepaper) - Zoom Cryptography Whitepaper
