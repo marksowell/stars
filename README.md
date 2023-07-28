@@ -381,7 +381,6 @@
 - [sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder) - JustTryHarder, a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-- [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - (End of life: May 31, 2023) AWS Toolkit for Eclipse
 
 ## html 
 
