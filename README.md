@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -91,6 +92,10 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
+
+## ai 
+
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 
 ## android 
 
