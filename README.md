@@ -360,6 +360,7 @@
 
 ## hacktoberfest 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -880,6 +881,7 @@
 
 ## rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [bee-san/Ares](https://github.com/bee-san/Ares) - Automated decoding of encrypted text without knowing the key or ciphers used
