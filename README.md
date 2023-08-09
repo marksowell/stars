@@ -550,6 +550,7 @@
 
 ## others 
 
+- [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [darklotuskdb/ios-reloader](https://github.com/darklotuskdb/ios-reloader) - The iOS Reloader is a weaponizing tool for jailbroken iOS devices. It facilitates the installation of a collection of tools on iOS devices (iPhone/iPad) that are essential for penetration testing purp
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [AppSecExplained/xss-playground](https://github.com/AppSecExplained/xss-playground) - A basic webapp to test XSS payloads.
