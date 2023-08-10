@@ -550,6 +550,7 @@
 
 ## others 
 
+- [devanshbatham/heaptruffle](https://github.com/devanshbatham/heaptruffle) - Mine URLs from Browser's Heap Snapshot for fun and profit
 - [zoom/team-chat-shortcut-sample](https://github.com/zoom/team-chat-shortcut-sample) - This repository contains a Node.js application that allows you to create a Zoom Team Chat App for managing recordings. Follow the instructions below to set up and run the application.
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [darklotuskdb/ios-reloader](https://github.com/darklotuskdb/ios-reloader) - The iOS Reloader is a weaponizing tool for jailbroken iOS devices. It facilitates the installation of a collection of tools on iOS devices (iPhone/iPad) that are essential for penetration testing purp
