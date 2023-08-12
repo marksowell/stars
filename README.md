@@ -67,6 +67,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [perl](#perl)
 - [powershell](#powershell)
 - [pwa](#pwa)
 - [python](#python)
@@ -175,6 +176,7 @@
 
 ## bash 
 
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [RealityNet/ios_triage](https://github.com/RealityNet/ios_triage) - Bash script to extract data from a "chekcra1ned" iOS device
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -460,6 +462,7 @@
 
 ## linux 
 
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -482,6 +485,7 @@
 
 ## macos 
 
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -815,8 +819,13 @@
 - [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Graphic tool for managing javascript project dependencies - in a friendly way.
 - [macports/macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree
 
+## perl 
+
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
+
 ## powershell 
 
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
@@ -829,6 +838,7 @@
 
 ## python 
 
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) - An XSS exploitation command-line interface and payload generator.
@@ -1031,6 +1041,7 @@
 
 ## windows 
 
+- [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
