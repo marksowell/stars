@@ -37,7 +37,6 @@
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
-- [google](#google)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -323,10 +322,6 @@
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [michenriksen/aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-
-## google 
-
-- [xHak9x/SocialPhish](https://github.com/xHak9x/SocialPhish) - The most complete Phishing Tool, with 32 templates +1 customizable
 
 ## graphql 
 
@@ -1061,7 +1056,6 @@
 
 ## wordpress 
 
-- [xHak9x/SocialPhish](https://github.com/xHak9x/SocialPhish) - The most complete Phishing Tool, with 32 templates +1 customizable
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 
