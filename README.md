@@ -332,6 +332,7 @@
 
 ## hacking 
 
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don't fear the Reaper 👻
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) - The Black Hat GraphQL Book Repository
@@ -911,6 +912,7 @@
 
 ## security 
 
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don't fear the Reaper 👻
 - [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome extension that lists Amazon S3 Buckets while browsing
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - Fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike.
 - [pwndoc/pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
