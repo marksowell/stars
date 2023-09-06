@@ -639,7 +639,7 @@
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
-- [Karmaz95/crimson](https://github.com/Karmaz95/crimson) - Web Application Security Testing automation.
+- [Karmaz95/crimson](https://github.com/Karmaz95/crimson) - Web Application Security Testing Tools
 - [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) - DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFU
 - [RobinMeis/MITMsmtp](https://github.com/RobinMeis/MITMsmtp) - MITMsmtp is an Evil SMTP Server for pentesting SMTP clients to catch login credentials and mails sent over plain or SSL encrypted connections.
 - [skelsec/pypykatz](https://github.com/skelsec/pypykatz) - Mimikatz implementation in pure Python
