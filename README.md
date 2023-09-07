@@ -562,6 +562,7 @@
 
 ## others 
 
+- [guerreroag12/keyring_secret_manager](https://github.com/guerreroag12/keyring_secret_manager) - 
 - [marksowell/ssl-labs-screenshot-js](https://github.com/marksowell/ssl-labs-screenshot-js) - Capture a trimmed screenshot of the SSL Labs report for a given domain.
 - [devanshbatham/heaptruffle](https://github.com/devanshbatham/heaptruffle) - Mine URLs from Browser's Heap Snapshot for fun and profit
 - [zoom/team-chat-shortcut-sample](https://github.com/zoom/team-chat-shortcut-sample) - This repository contains a Node.js application that allows you to create a Zoom Team Chat App for managing recordings. Follow the instructions below to set up and run the application.
