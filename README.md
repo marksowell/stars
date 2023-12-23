@@ -748,7 +748,6 @@
 - [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager) - Hide your payload in DNS
 - [CheckPointSW/InviZzzible](https://github.com/CheckPointSW/InviZzzible) - InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.
 - [t3hbb/NSGenCS](https://github.com/t3hbb/NSGenCS) - Extendable payload obfuscation and delivery framework
-- [puckiestyle/CVE-2022-0492](https://github.com/puckiestyle/CVE-2022-0492) - 
 - [basharkey/CVE-2022-0847-dirty-pipe-checker](https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker) - Bash script to check for CVE-2022-0847 "Dirty Pipe"
 - [AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits) - A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
