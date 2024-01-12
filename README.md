@@ -582,6 +582,7 @@
 
 ## others 
 
+- [oyyd/http-proxy-to-socks](https://github.com/oyyd/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
 - [iphelix/dnschef](https://github.com/iphelix/dnschef) - DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 - [zoom/unsplash-chatbot](https://github.com/zoom/unsplash-chatbot) - Send Unsplash photos in Zoom Team Chat.
 - [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
