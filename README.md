@@ -582,6 +582,7 @@
 
 ## others 
 
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [stateful/runme](https://github.com/stateful/runme) - Execute your runbooks, docs, and READMEs.
 - [bugcrowd/tipjar](https://github.com/bugcrowd/tipjar) - 
 - [OWASP/www-project-mobile-top-10](https://github.com/OWASP/www-project-mobile-top-10) - 
