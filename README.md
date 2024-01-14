@@ -582,6 +582,7 @@
 
 ## others 
 
+- [googleprojectzero/TinyInst](https://github.com/googleprojectzero/TinyInst) - A lightweight dynamic instrumentation library
 - [oyyd/http-proxy-to-socks](https://github.com/oyyd/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
 - [iphelix/dnschef](https://github.com/iphelix/dnschef) - DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 - [zoom/unsplash-chatbot](https://github.com/zoom/unsplash-chatbot) - Send Unsplash photos in Zoom Team Chat.
