@@ -618,7 +618,7 @@
 - [akto-api-security/akto-burp-extension](https://github.com/akto-api-security/akto-burp-extension) - A Burp extension to send data to Akto dashboard
 - [Checkmarx/capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 - [HolyBugx/Demystifying-Cookies-and-Tokens-Security](https://github.com/HolyBugx/Demystifying-Cookies-and-Tokens-Security) - Learn Cookies and Tokens Security in Practice.
-- [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - File upload restrictions bypass, by using different bug bounty techniques covered in Hacktricks.
+- [sAjibuu/Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - A simple tool for bypassing file upload restrictions.
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) - Web dashboard for Interactsh client
 - [OWASP/www-members](https://github.com/OWASP/www-members) - 
 - [Orange-Cyberdefense/ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) - Orange Cyberdefense mindmaps
