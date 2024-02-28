@@ -583,6 +583,7 @@
 
 ## others 
 
+- [WeAreCloudar/s3-account-search](https://github.com/WeAreCloudar/s3-account-search) - S3 Account Search
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [marksowell/burp-collaborator-deploy](https://github.com/marksowell/burp-collaborator-deploy) - Deploy a Private Burp Collaborator server with a wildcard Let's Encrypt SSL certificate including automatic renewal for advanced penetration testing. Includes scripts and guides for a seamless cloud d
 - [googleprojectzero/TinyInst](https://github.com/googleprojectzero/TinyInst) - A lightweight dynamic instrumentation library
