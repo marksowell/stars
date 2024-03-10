@@ -589,6 +589,7 @@
 
 ## others 
 
+- [jhaddix/tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [marksowell/aws-account-finder](https://github.com/marksowell/aws-account-finder) - Find an AWS Account ID from any S3 Bucket
 - [WeAreCloudar/s3-account-search](https://github.com/WeAreCloudar/s3-account-search) - S3 Account Search
