@@ -596,6 +596,7 @@
 
 ## others 
 
+- [RedTeamOperations/RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS) - RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs)
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [jhaddix/tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
