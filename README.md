@@ -596,6 +596,7 @@
 
 ## others 
 
+- [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
 - [PortSwigger/BChecks](https://github.com/PortSwigger/BChecks) - BChecks collection for Burp Suite Professional and Burp Suite Enterprise Edition
 - [RedTeamOperations/RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS) - RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs)
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
