@@ -426,6 +426,7 @@
 
 ## http 
 
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [carlospolop/fuzzhttpbypass](https://github.com/carlospolop/fuzzhttpbypass) - This tool use fuuzzing to try to bypass unknown authentication methods, who knows...
@@ -596,6 +597,7 @@
 
 ## others 
 
+- [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
 - [PortSwigger/BChecks](https://github.com/PortSwigger/BChecks) - BChecks collection for Burp Suite Professional and Burp Suite Enterprise Edition
 - [RedTeamOperations/RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS) - RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs)
