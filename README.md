@@ -171,6 +171,7 @@
 
 ## aws 
 
+- [marksowell/aws-account-finder](https://github.com/marksowell/aws-account-finder) - Find an AWS Account ID from any S3 Bucket
 - [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [aws/aws-toolkit-eclipse](https://github.com/aws/aws-toolkit-eclipse) - (End of life: May 31, 2023) AWS Toolkit for Eclipse
@@ -605,7 +606,6 @@
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [jhaddix/tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-- [marksowell/aws-account-finder](https://github.com/marksowell/aws-account-finder) - Find an AWS Account ID from any S3 Bucket
 - [WeAreCloudar/s3-account-search](https://github.com/WeAreCloudar/s3-account-search) - S3 Account Search
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [marksowell/burp-collaborator-deploy](https://github.com/marksowell/burp-collaborator-deploy) - Deploy a Private Burp Collaborator server with a wildcard Let's Encrypt SSL certificate including automatic renewal for advanced penetration testing. Includes scripts and guides for a seamless cloud d
