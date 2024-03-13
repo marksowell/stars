@@ -598,6 +598,7 @@
 
 ## others 
 
+- [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [ly4k/Certipy](https://github.com/ly4k/Certipy) - Tool for Active Directory Certificate Services enumeration and abuse
 - [PortSwigger/BChecks](https://github.com/PortSwigger/BChecks) - BChecks collection for Burp Suite Professional and Burp Suite Enterprise Edition
