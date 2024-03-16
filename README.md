@@ -598,6 +598,7 @@
 
 ## others 
 
+- [netsecurity-as/subfuz](https://github.com/netsecurity-as/subfuz) - A subdomain fuzzing tool
 - [marksowell/massdns](https://github.com/marksowell/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
