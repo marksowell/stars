@@ -350,6 +350,7 @@
 
 ## hacking 
 
+- [summitt/Nope-Proxy](https://github.com/summitt/Nope-Proxy) - TCP/UDP Non-HTTP Proxy Extension (NoPE)  for  Burp Suite.
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book) - 
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among conn
 - [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
