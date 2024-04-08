@@ -600,6 +600,7 @@
 
 ## others 
 
+- [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [netsecurity-as/subfuz](https://github.com/netsecurity-as/subfuz) - A subdomain fuzzing tool
 - [marksowell/massdns](https://github.com/marksowell/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
