@@ -185,6 +185,7 @@
 
 ## bash 
 
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
@@ -351,6 +352,7 @@
 
 ## hacking 
 
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [summitt/Nope-Proxy](https://github.com/summitt/Nope-Proxy) - TCP/UDP Non-HTTP Proxy Extension (NoPE)  for  Burp Suite.
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book) - 
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among conn
@@ -997,6 +999,7 @@
 
 ## security 
 
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book) - 
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) - Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -1070,6 +1073,7 @@
 
 ## shell 
 
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
