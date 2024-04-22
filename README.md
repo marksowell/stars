@@ -872,7 +872,6 @@
 - [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) - Instructions on how to create your very own Pwnbox, originally created by HTB
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [CiscoCXSecurity/enum4linux](https://github.com/CiscoCXSecurity/enum4linux) - enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts
-- [glipets/tf_ovf_deploy_single](https://github.com/glipets/tf_ovf_deploy_single) - 
 - [TCM-Course-Resources/Windows-Privilege-Escalation-Resources](https://github.com/TCM-Course-Resources/Windows-Privilege-Escalation-Resources) - Compilation of Resources from TCM's Windows Priv Esc Udemy Course
 - [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - PowerShell Obfuscator
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
