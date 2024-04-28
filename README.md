@@ -40,6 +40,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [homebridge](#homebridge)
 - [html](#html)
 - [http](#http)
 - [ios](#ios)
@@ -426,6 +427,10 @@
 - [sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder) - JustTryHarder, a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+
+## homebridge 
+
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
 ## html 
 
