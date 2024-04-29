@@ -105,6 +105,7 @@
 
 ## android 
 
+- [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -463,6 +464,7 @@
 
 ## java 
 
+- [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI and CLI app for automatically saving SHSH blobs
@@ -564,6 +566,7 @@
 
 ## mobile 
 
+- [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
@@ -1008,6 +1011,7 @@
 
 ## security 
 
+- [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book) - 
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) - Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
