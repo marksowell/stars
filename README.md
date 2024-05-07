@@ -618,6 +618,7 @@
 
 ## others 
 
+- [login-securite/lsassy](https://github.com/login-securite/lsassy) - Extract credentials from lsass remotely
 - [r3motecontrol/Ghostpack-CompiledBinaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) - Compiled Binaries for Ghostpack (.NET v4.0)
 - [GhostPack/Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
 - [dirkjanm/krbrelayx](https://github.com/dirkjanm/krbrelayx) - Kerberos unconstrained delegation abuse toolkit
