@@ -618,6 +618,7 @@
 
 ## others 
 
+- [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [punk-security/smbeagle](https://github.com/punk-security/smbeagle) - SMBeagle - Fileshare auditing tool.
 - [login-securite/lsassy](https://github.com/login-securite/lsassy) - Extract credentials from lsass remotely
 - [r3motecontrol/Ghostpack-CompiledBinaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) - Compiled Binaries for Ghostpack (.NET v4.0)
