@@ -274,6 +274,7 @@
 
 ## documentation 
 
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [vmware/vsphere-automation-sdk-python](https://github.com/vmware/vsphere-automation-sdk-python) - Python samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
