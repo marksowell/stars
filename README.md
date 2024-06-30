@@ -627,6 +627,7 @@
 
 ## others 
 
+- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [punk-security/smbeagle](https://github.com/punk-security/smbeagle) - SMBeagle - Fileshare auditing tool.
 - [login-securite/lsassy](https://github.com/login-securite/lsassy) - Extract credentials from lsass remotely
