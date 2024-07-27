@@ -598,7 +598,7 @@
 
 ## nextjs 
 
-- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - Next.js admin dashboard UI components and templates that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## nodejs 
@@ -1159,7 +1159,7 @@
 
 ## typescript 
 
-- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - Next.js admin dashboard UI components and templates that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
