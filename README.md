@@ -417,6 +417,7 @@
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [akto-api-security/tests-library](https://github.com/akto-api-security/tests-library) - Community generated list of API security tests to find OWASP top10, HackerOne top 10 vulnerabilities
@@ -700,7 +701,6 @@
 - [nchah/github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
 - [guerreroag12/SSH_Brute_Force](https://github.com/guerreroag12/SSH_Brute_Force) - A simple python ssh brute forcer
 - [marksowell/Findings-Tracker](https://github.com/marksowell/Findings-Tracker) - Burp Suite extension designed to help security professionals manage and track web application security findings
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [marksowell/Info-Leakage](https://github.com/marksowell/Info-Leakage) - Burp Suite extension designed to help security professionals search for custom sensitive information in HTTP responses
 - [akto-api-security/akto-burp-extension](https://github.com/akto-api-security/akto-burp-extension) - A Burp extension to send data to Akto dashboard
 - [Checkmarx/capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
