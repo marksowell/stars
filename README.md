@@ -643,6 +643,7 @@
 
 ## others 
 
+- [marksowell/Kali-Linux-to-DigitalOcean](https://github.com/marksowell/Kali-Linux-to-DigitalOcean) - A GitHub Action to convert the Kali Linux Generic Cloud Image and upload it to Custom Images in DigitalOcean.
 - [marksowell/LocalSOCKS5Proxy](https://github.com/marksowell/LocalSOCKS5Proxy) - LocalSOCKS5Proxy is a minimal, Python-based SOCKS5 proxy server designed for use cases where you need to route traffic through a remote machine or resource. It can be used in conjunction with tools su
 - [marksowell/openwrt-loco5ac-build](https://github.com/marksowell/openwrt-loco5ac-build) - Custom OpenWrt 23.05.3 firmware build for the UISP airMAX NanoStation 5AC Loco (LOCO5AC)
 - [marksowell/esp32-web-lora-demo-ota-multi-device](https://github.com/marksowell/esp32-web-lora-demo-ota-multi-device) - ESP32 Web + LoRa Demo with OTA & Multi-Device Support. This project demonstrates a web interface for ESP32 devices with LoRa communication, Over-the-Air (OTA) updates, and multi-device messaging capab
