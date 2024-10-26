@@ -648,6 +648,7 @@
 
 ## others 
 
+- [marksowell/marksowell.github.io](https://github.com/marksowell/marksowell.github.io) - Mark Sowell - Penetration Tester at Check Point Software Technologies Ltd. - CEH Master, CCSM Elite, & Cybersecurity Expert
 - [marksowell/nmap-tailwind-xsl](https://github.com/marksowell/nmap-tailwind-xsl) - An XSL stylesheet for rendering Nmap XML output with a modernized UI using Tailwind CSS and DataTables
 - [marksowell/Kali-Linux-to-DigitalOcean](https://github.com/marksowell/Kali-Linux-to-DigitalOcean) - A GitHub Action to convert the Kali Linux Generic Cloud Image and upload it to Custom Images in DigitalOcean.
 - [marksowell/LocalSOCKS5Proxy](https://github.com/marksowell/LocalSOCKS5Proxy) - LocalSOCKS5Proxy is a minimal, Python-based SOCKS5 proxy server designed for use cases where you need to route traffic through a remote machine or resource. It can be used in conjunction with tools su
@@ -807,7 +808,7 @@
 - [marksowell/Ckpt_Mike-](https://github.com/marksowell/Ckpt_Mike-) - 
 - [marksowell/BrightTalk-video-downloader](https://github.com/marksowell/BrightTalk-video-downloader) - 
 - [marksowell/cf-bypass](https://github.com/marksowell/cf-bypass) - 
-- [marksowell/marksowell.github.io](https://github.com/marksowell/marksowell.github.io) - Mark Sowell - Penetration Tester at Check Point Software Technologies Ltd. - CEH Master, CCSM Elite, & Cybersecurity Expert
+- [marksowell/marksowell-archive.github.io](https://github.com/marksowell/marksowell-archive.github.io) - Mark Sowell - Penetration Tester at Check Point Software Technologies Ltd. - CEH Master, CCSM Elite, & Cybersecurity Expert
 - [marksowell/docker-compose-osmedeus-traefik](https://github.com/marksowell/docker-compose-osmedeus-traefik) - Docker Compose file for Osmedeus behind Traefik Reverse Proxy
 - [marksowell/Harmony-Connect-Corporate-Access-API](https://github.com/marksowell/Harmony-Connect-Corporate-Access-API) - Postman Collection for Check Point Harmony Connect Corporate Access API
 - [marksowell/my-stars](https://github.com/marksowell/my-stars) - A curated list of my GitHub stars by stargazed
