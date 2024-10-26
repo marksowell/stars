@@ -648,6 +648,7 @@
 
 ## others 
 
+- [marksowell/nmap-tailwind-xsl](https://github.com/marksowell/nmap-tailwind-xsl) - An XSL stylesheet for rendering Nmap XML output with a modernized UI using Tailwind CSS and DataTables
 - [marksowell/Kali-Linux-to-DigitalOcean](https://github.com/marksowell/Kali-Linux-to-DigitalOcean) - A GitHub Action to convert the Kali Linux Generic Cloud Image and upload it to Custom Images in DigitalOcean.
 - [marksowell/LocalSOCKS5Proxy](https://github.com/marksowell/LocalSOCKS5Proxy) - LocalSOCKS5Proxy is a minimal, Python-based SOCKS5 proxy server designed for use cases where you need to route traffic through a remote machine or resource. It can be used in conjunction with tools su
 - [marksowell/openwrt-loco5ac-build](https://github.com/marksowell/openwrt-loco5ac-build) - Custom OpenWrt 23.05.3 firmware build for the UISP airMAX NanoStation 5AC Loco (LOCO5AC)
