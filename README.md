@@ -1063,6 +1063,7 @@
 
 ## security 
 
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [netwrix/pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
