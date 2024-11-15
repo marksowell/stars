@@ -763,7 +763,7 @@
 - [mllocs/zoomus](https://github.com/mllocs/zoomus) - Ruby wrapper gem for zoom.us API.
 - [OWASP/iGoat-Swift](https://github.com/OWASP/iGoat-Swift) - OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS
 - [OWASP/igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
-- [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
+- [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 - [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb) - 
 - [google/ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [neil-wu/CatFrida](https://github.com/neil-wu/CatFrida) - CatFrida is a macOS tool for inspecting a running iOS app.
