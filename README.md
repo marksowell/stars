@@ -191,7 +191,7 @@
 ## azure 
 
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
+- [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 
 ## bash 
@@ -346,7 +346,7 @@
 - [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go server that prints os information and HTTP request to output
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound) - Azure Data Exporter for BloodHound
+- [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
 - [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
@@ -899,7 +899,7 @@
 - [cyberheartmi9/PayloadsAllTheThings](https://github.com/cyberheartmi9/PayloadsAllTheThings) - 
 - [bugcrowd/HUNT](https://github.com/bugcrowd/HUNT) - 
 - [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+- [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) - Trying to tame the three-headed dog.
 - [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
 - [corelan/mona](https://github.com/corelan/mona) - Corelan Repository for mona.py
