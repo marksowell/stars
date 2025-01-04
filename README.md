@@ -880,7 +880,7 @@
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [DigiDNA/Silicon](https://github.com/DigiDNA/Silicon) - 
 - [dafthack/MailSniper](https://github.com/dafthack/MailSniper) - MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can b
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [ernw/nmap-parse-output](https://github.com/ernw/nmap-parse-output) - Converts/manipulates/extracts data from a Nmap scan output.
 - [plusvic/yara](https://github.com/plusvic/yara) - The pattern matching swiss knife
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
