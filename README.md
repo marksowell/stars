@@ -654,6 +654,7 @@
 
 ## others 
 
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [c3llkn1ght/BlindBrute](https://github.com/c3llkn1ght/BlindBrute) - A blind SQL injection brute forcer
 - [CheckPointSW/Evasions](https://github.com/CheckPointSW/Evasions) - Evasions encyclopedia gathers methods used by malware to evade detection when run in virtualized environment. Methods are grouped into categories for ease of searching and understanding. Also provided
 - [marksowell/marksowell.github.io](https://github.com/marksowell/marksowell.github.io) - Mark Sowell - Penetration Tester at Check Point Software Technologies Ltd. - CEH Master, CCSM Elite, & Cybersecurity Expert
