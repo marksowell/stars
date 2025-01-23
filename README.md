@@ -656,7 +656,6 @@
 
 ## others 
 
-- [element-security/check-point-gateways-rce](https://github.com/element-security/check-point-gateways-rce) - Check Point Security Gateways RCE via CVE-2021-40438
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [c3llkn1ght/BlindBrute](https://github.com/c3llkn1ght/BlindBrute) - A blind SQL injection brute forcer
 - [CheckPointSW/Evasions](https://github.com/CheckPointSW/Evasions) - Evasions encyclopedia gathers methods used by malware to evade detection when run in virtualized environment. Methods are grouped into categories for ease of searching and understanding. Also provided
