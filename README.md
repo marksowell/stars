@@ -671,6 +671,7 @@
 
 ## others 
 
+- [mrfanii/Edit-This-Cookie-V3](https://github.com/mrfanii/Edit-This-Cookie-V3) - EditThisCookie (V3) is the famous Google Chrome/Chromium extension for editing cookies
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [c3llkn1ght/BlindBrute](https://github.com/c3llkn1ght/BlindBrute) - A blind SQL injection brute forcer
