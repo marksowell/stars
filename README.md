@@ -671,6 +671,7 @@
 
 ## others 
 
+- [Eplox/subfuz](https://github.com/Eplox/subfuz) - A subdomain fuzzing tool
 - [mrfanii/Edit-This-Cookie-V3](https://github.com/mrfanii/Edit-This-Cookie-V3) - EditThisCookie (V3) is the famous Google Chrome/Chromium extension for editing cookies
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
