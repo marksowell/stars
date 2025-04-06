@@ -673,6 +673,7 @@
 
 ## others 
 
+- [clickswave/voyage](https://github.com/clickswave/voyage) - Stateful subdomain enumeration toolkit
 - [Eplox/subfuz](https://github.com/Eplox/subfuz) - A subdomain fuzzing tool
 - [mrfanii/Edit-This-Cookie-V3](https://github.com/mrfanii/Edit-This-Cookie-V3) - EditThisCookie (V3) is the famous Google Chrome/Chromium extension for editing cookies
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
