@@ -673,6 +673,7 @@
 
 ## others 
 
+- [dagowda/DSViper](https://github.com/dagowda/DSViper) - This is for Ethical Use only.
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques with resumable scans, user-specific databases, and fine-grained control—built for efficient, reliable reconn
 - [Eplox/subfuz](https://github.com/Eplox/subfuz) - A subdomain fuzzing tool
 - [mrfanii/Edit-This-Cookie-V3](https://github.com/mrfanii/Edit-This-Cookie-V3) - EditThisCookie (V3) is the famous Google Chrome/Chromium extension for editing cookies
