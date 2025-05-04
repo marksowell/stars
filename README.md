@@ -677,6 +677,7 @@
 
 ## others 
 
+- [Windows-on-ARM-Experiments/mingw-woarm64-build](https://github.com/Windows-on-ARM-Experiments/mingw-woarm64-build) - Workflows and build scripts for Windows on Arm64 GNU cross-compiler for `aarch64-w64-mingw32` target.
 - [OWASP/www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
 - [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2) - 
 - [dagowda/DSViper](https://github.com/dagowda/DSViper) - This is for Ethical Use only.
