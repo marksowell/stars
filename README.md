@@ -870,6 +870,7 @@
 - [S3cur3Th1sSh1t/Pentest-Tools](https://github.com/S3cur3Th1sSh1t/Pentest-Tools) - 
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 - [marksowell/marksowell](https://github.com/marksowell/marksowell) - Penetration Tester at Check Point Software Technologies Ltd. - CEH Master, CCSM Elite, & Cybersecurity Expert
+- [extremenetworks/Virtual_EXOS](https://github.com/extremenetworks/Virtual_EXOS) - EXOS VM images are provided for testing in virtual environments such as Virtualbox or VMware.
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [h4wkst3r/InvisibilityCloak](https://github.com/h4wkst3r/InvisibilityCloak) - Proof-of-concept obfuscation toolkit for C# post-exploitation tools
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) - A cheatsheet for exploiting server-side SVG processors.
