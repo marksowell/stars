@@ -678,6 +678,7 @@
 
 ## others 
 
+- [ricardojoserf/TrickDump](https://github.com/ricardojoserf/TrickDump) - Dump lsass using only NTAPI functions creating 3 JSON and 1 ZIP file... and generate the MiniDump file later!
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [Windows-on-ARM-Experiments/mingw-woarm64-build](https://github.com/Windows-on-ARM-Experiments/mingw-woarm64-build) - Workflows and build scripts for Windows on Arm64 GNU cross-compiler for `aarch64-w64-mingw32` target.
 - [OWASP/www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
