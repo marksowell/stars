@@ -706,7 +706,7 @@
 - [login-securite/lsassy](https://github.com/login-securite/lsassy) - Extract credentials from lsass remotely
 - [r3motecontrol/Ghostpack-CompiledBinaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) - Compiled Binaries for Ghostpack
 - [GhostPack/Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
-- [dirkjanm/krbrelayx](https://github.com/dirkjanm/krbrelayx) - Kerberos unconstrained delegation abuse toolkit
+- [dirkjanm/krbrelayx](https://github.com/dirkjanm/krbrelayx) - Kerberos relaying and unconstrained delegation abuse toolkit
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [marksowell/praetorian-mastermind](https://github.com/marksowell/praetorian-mastermind) - Praetorian Tech Challenge - Mastermind
