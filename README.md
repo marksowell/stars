@@ -678,6 +678,7 @@
 
 ## others 
 
+- [tylerdotrar/RGBwiki](https://github.com/tylerdotrar/RGBwiki) - Aggregate of my offensive (Red), DevOps (Green), and defensive (Blue) knowledge in the form of an Obsidian Vault hosted by an mkdocs-material Github Pages site.
 - [tylerdotrar/SigmaPotato](https://github.com/tylerdotrar/SigmaPotato) - SeImpersonate privilege escalation tool for Windows 8 - 11 and Windows Server 2012 - 2022 with extensive PowerShell and .NET reflection support.
 - [sickn3ss/exploits](https://github.com/sickn3ss/exploits) - 
 - [ricardojoserf/TrickDump](https://github.com/ricardojoserf/TrickDump) - Dump lsass using only NTAPI functions creating 3 JSON and 1 ZIP file... and generate the MiniDump file later!
