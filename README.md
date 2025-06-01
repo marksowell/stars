@@ -678,6 +678,8 @@
 
 ## others 
 
+- [tylerdotrar/SigmaPotato](https://github.com/tylerdotrar/SigmaPotato) - SeImpersonate privilege escalation tool for Windows 8 - 11 and Windows Server 2012 - 2022 with extensive PowerShell and .NET reflection support.
+- [sickn3ss/exploits](https://github.com/sickn3ss/exploits) - 
 - [ricardojoserf/TrickDump](https://github.com/ricardojoserf/TrickDump) - Dump lsass using only NTAPI functions creating 3 JSON and 1 ZIP file... and generate the MiniDump file later!
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [Windows-on-ARM-Experiments/mingw-woarm64-build](https://github.com/Windows-on-ARM-Experiments/mingw-woarm64-build) - Workflows and build scripts for Windows on Arm64 GNU cross-compiler for `aarch64-w64-mingw32` target.
