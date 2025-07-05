@@ -677,6 +677,7 @@
 
 ## others 
 
+- [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
 - [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound) - C# Data Collector for BloodHound
 - [MGamalCYSEC/ExploitFix-Windows](https://github.com/MGamalCYSEC/ExploitFix-Windows) - A repository of refined and tested exploits for Windows vulnerabilities. Includes detailed walkthroughs for exploitation, post-exploitation techniques, and mitigation strategies. Stay updated with the
 - [tylerdotrar/RGBwiki](https://github.com/tylerdotrar/RGBwiki) - Aggregate of my offensive (Red), DevOps (Green), and defensive (Blue) knowledge in the form of an Obsidian Vault hosted by an mkdocs-material Github Pages site.
