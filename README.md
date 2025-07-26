@@ -675,6 +675,7 @@
 
 ## others 
 
+- [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
 - [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound) - C# Data Collector for BloodHound
 - [MGamalCYSEC/ExploitFix-Windows](https://github.com/MGamalCYSEC/ExploitFix-Windows) - A repository of refined and tested exploits for Windows vulnerabilities. Includes detailed walkthroughs for exploitation, post-exploitation techniques, and mitigation strategies. Stay updated with the
