@@ -74,6 +74,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [perl](#perl)
+- [php](#php)
 - [powershell](#powershell)
 - [pwa](#pwa)
 - [python](#python)
@@ -999,6 +1000,10 @@
 ## perl 
 
 - [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
+
+## php 
+
+- [spaze/hashes](https://github.com/spaze/hashes) - Magic hashes – PHP hash "collisions"
 
 ## powershell 
 
