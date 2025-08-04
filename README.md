@@ -679,6 +679,11 @@
 
 ## others 
 
+- [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
+- [sensepost/hostapd-mana](https://github.com/sensepost/hostapd-mana) - SensePost's modified hostapd for wifi attacks.
+- [s0lst1c3/eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
+- [t6x/reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x) - 
+- [wiire-a/bully](https://github.com/wiire-a/bully) - Brute force attack against WPS, that actually works
 - [kimocoder/wifite2](https://github.com/kimocoder/wifite2) - Rewrite of the popular wireless network auditor, "wifite" - original by @derv82
 - [savio-code/fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker) - Automatically exported from code.google.com/p/fern-wifi-cracker
 - [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) - 
