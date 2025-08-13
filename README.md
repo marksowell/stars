@@ -689,6 +689,7 @@
 
 ## others 
 
+- [cons0le7/iSH-tools](https://github.com/cons0le7/iSH-tools) - Ethical hacking toolkit for iOS devices using iSH Shell.
 - [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
 - [sensepost/hostapd-mana](https://github.com/sensepost/hostapd-mana) - SensePost's modified hostapd for wifi attacks.
 - [s0lst1c3/eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
