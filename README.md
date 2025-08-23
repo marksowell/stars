@@ -691,6 +691,7 @@
 
 ## others 
 
+- [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone) - A tool to transform Chromium browsers into a C2 Implant
 - [cons0le7/iSH-tools](https://github.com/cons0le7/iSH-tools) - Ethical hacking toolkit for iOS devices using iSH Shell.
 - [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
 - [sensepost/hostapd-mana](https://github.com/sensepost/hostapd-mana) - SensePost's modified hostapd for wifi attacks.
