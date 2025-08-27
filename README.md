@@ -691,6 +691,7 @@
 
 ## others 
 
+- [marksowell/pan-keepalive](https://github.com/marksowell/pan-keepalive) - PAN Keepalive is a Python script designed to keep a Palo Alto Networks GlobalProtect VPN connection alive by periodically reconnecting every 30 minutes. This can be useful in environments where the VP
 - [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone) - A tool to transform Chromium browsers into a C2 Implant
 - [cons0le7/iSH-tools](https://github.com/cons0le7/iSH-tools) - Ethical hacking toolkit for iOS devices using iSH Shell.
 - [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
@@ -1030,6 +1031,7 @@
 
 ## powershell 
 
+- [marksowell/nosleep](https://github.com/marksowell/nosleep) - No Sleep is a simple PowerShell script that prevents a Windows virtual machine (or physical machine) from entering sleep mode. It's useful for ensuring continuous uptime during long-running tasks, tes
 - [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
 - [jymcheong/AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
@@ -1258,6 +1260,7 @@
 
 ## terminal 
 
+- [marksowell/kautolog](https://github.com/marksowell/kautolog) - Automatic terminal session logging for Bash and Zsh. Captures every command, prompt, and output in real time, with per-session files, replay support, and optional cloud sync. Ideal for security exams,
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -1309,6 +1312,7 @@
 
 ## windows 
 
+- [marksowell/nosleep](https://github.com/marksowell/nosleep) - No Sleep is a simple PowerShell script that prevents a Windows virtual machine (or physical machine) from entering sleep mode. It's useful for ensuring continuous uptime during long-running tasks, tes
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [royalapplications/toolbox](https://github.com/royalapplications/toolbox) - This repository contains various automation scripts for Royal TS (for Windows) and Royal TSX (for macOS). Also included are dynamic folder samples. This collection consists of scripts by the Royal App
