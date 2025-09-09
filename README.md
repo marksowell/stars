@@ -692,6 +692,7 @@
 
 ## others 
 
+- [opengrep/opengrep](https://github.com/opengrep/opengrep) - 🔎 Static code analysis engine to find security issues in code.
 - [marksowell/whoami-geo](https://github.com/marksowell/whoami-geo) - A tiny, modern web app (Docker-ready) that shows your source IPv4, IPv6, geolocation, ASN/ISP, reverse DNS, forwarded headers, and more. Clean dark UI, single binary container.
 - [marksowell/pan-keepalive](https://github.com/marksowell/pan-keepalive) - PAN Keepalive is a Python script designed to keep a Palo Alto Networks GlobalProtect VPN connection alive by periodically reconnecting every 30 minutes. This can be useful in environments where the VP
 - [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone) - A tool to transform Chromium browsers into a C2 Implant
