@@ -724,7 +724,7 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [c3llkn1ght/BlindBrute](https://github.com/c3llkn1ght/BlindBrute) - A blind SQL injection brute forcer
 - [CheckPointSW/Evasions](https://github.com/CheckPointSW/Evasions) - Evasions encyclopedia gathers methods used by malware to evade detection when run in virtualized environment. Methods are grouped into categories for ease of searching and understanding. Also provided
-- [marksowell/marksowell.github.io](https://github.com/marksowell/marksowell.github.io) - Mark Sowell - Lead Penetration Tester at Check Point Software Technologies Ltd. - OSCP+, CEH Master, CCSM Elite, & Cybersecurity Expert
+- [marksowell/marksowell.github.io](https://github.com/marksowell/marksowell.github.io) - Mark Sowell - Lead Penetration Tester at Check Point Software - OSCP+, CEH Master, CCSM Elite, & Cybersecurity Expert
 - [marksowell/nmap-tailwind-xsl](https://github.com/marksowell/nmap-tailwind-xsl) - An XSL stylesheet for rendering Nmap XML output with a modernized UI using Tailwind CSS and DataTables
 - [marksowell/Kali-Linux-to-DigitalOcean](https://github.com/marksowell/Kali-Linux-to-DigitalOcean) - A GitHub Action to convert the Kali Linux Generic Cloud Image and upload it to Custom Images in DigitalOcean.
 - [marksowell/LocalSOCKS5Proxy](https://github.com/marksowell/LocalSOCKS5Proxy) - LocalSOCKS5Proxy is a minimal, Python-based SOCKS5 proxy server designed for use cases where you need to route traffic through a remote machine or resource. It can be used in conjunction with tools su
