@@ -699,6 +699,7 @@
 
 ## others 
 
+- [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [vasilyprokopov/digitalocean-diagrams](https://github.com/vasilyprokopov/digitalocean-diagrams) - DigitalOcean Reference Architecture Diagrams
 - [opengrep/opengrep](https://github.com/opengrep/opengrep) - 🔎 Static code analysis engine to find security issues in code.
 - [marksowell/whoami-geo](https://github.com/marksowell/whoami-geo) - A tiny, modern web app (Docker-ready) that shows your source IPv4, IPv6, geolocation, ASN/ISP, reverse DNS, forwarded headers, and more. Clean dark UI, single binary container.
