@@ -296,7 +296,7 @@
 
 ## docker 
 
-- [marksowell/droplet-template](https://github.com/marksowell/droplet-template) - DigitalOcean Droplet Template with Cloud-init, Docker, Certbot, and DNS via GitHub Actions
+- [marksowell/DigitalOcean-Droplet-Template](https://github.com/marksowell/DigitalOcean-Droplet-Template) - DigitalOcean Droplet Template with Cloud-init, Docker, Certbot, and DNS via GitHub Actions
 - [r4ulcl/WiFiChallengeLab-docker](https://github.com/r4ulcl/WiFiChallengeLab-docker) - Virtualized WiFi pentesting laboratory without the need for physical WiFi cards, using mac80211_hwsim. Docker version of WiFiChallenge Lab with modifications in the challenges and improved stability. 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
