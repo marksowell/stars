@@ -893,7 +893,6 @@
 - [marksowell/Ckpt_Mike-](https://github.com/marksowell/Ckpt_Mike-) - 
 - [marksowell/BrightTalk-video-downloader](https://github.com/marksowell/BrightTalk-video-downloader) - 
 - [marksowell/cf-bypass](https://github.com/marksowell/cf-bypass) - 
-- [marksowell/marksowell-archive.github.io](https://github.com/marksowell/marksowell-archive.github.io) - Mark Sowell - Penetration Tester at Check Point Software Technologies Ltd. - CEH Master, CCSM Elite, & Cybersecurity Expert
 - [marksowell/docker-compose-osmedeus-traefik](https://github.com/marksowell/docker-compose-osmedeus-traefik) - Docker Compose file for Osmedeus behind Traefik Reverse Proxy
 - [marksowell/Harmony-Connect-Corporate-Access-API](https://github.com/marksowell/Harmony-Connect-Corporate-Access-API) - Postman Collection for Check Point Harmony Connect Corporate Access API
 - [marksowell/my-stars](https://github.com/marksowell/my-stars) - A curated list of my GitHub stars by stargazed
