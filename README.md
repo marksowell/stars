@@ -703,6 +703,7 @@
 
 ## others 
 
+- [marksowell/royalapplications-toolbox](https://github.com/marksowell/royalapplications-toolbox) - Royal Toolbox fork with Hammerspoon integration for enhanced connection management at launch.
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [vasilyprokopov/digitalocean-diagrams](https://github.com/vasilyprokopov/digitalocean-diagrams) - DigitalOcean Reference Architecture Diagrams
 - [opengrep/opengrep](https://github.com/opengrep/opengrep) - 🔎 Static code analysis engine to find security issues in code.
