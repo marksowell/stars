@@ -246,6 +246,7 @@
 
 ## chrome-extension 
 
+- [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone) - A tool to transform Chromium browsers into a C2 Implant
 - [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome and Firefox extension that lists Amazon S3 Buckets while browsing
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
@@ -741,7 +742,6 @@
 - [opengrep/opengrep](https://github.com/opengrep/opengrep) - 🔎 Static code analysis engine to find security issues in code.
 - [marksowell/whoami-geo](https://github.com/marksowell/whoami-geo) - A tiny, modern web app (Docker-ready) that shows your source IPv4, IPv6, geolocation, ASN/ISP, reverse DNS, forwarded headers, and more. Clean dark UI, single binary container.
 - [marksowell/pan-keepalive](https://github.com/marksowell/pan-keepalive) - PAN Keepalive is a Python script designed to keep a Palo Alto Networks GlobalProtect VPN connection alive by periodically reconnecting every 30 minutes. This can be useful in environments where the VP
-- [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone) - A tool to transform Chromium browsers into a C2 Implant
 - [cons0le7/iSH-tools](https://github.com/cons0le7/iSH-tools) - Ethical hacking toolkit for iOS devices using iSH Shell.
 - [OpenSecurityResearch/hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe) - Modified hostapd to facilitate AP impersonation attacks
 - [sensepost/hostapd-mana](https://github.com/sensepost/hostapd-mana) - SensePost's modified hostapd for wifi attacks.
