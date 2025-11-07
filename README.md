@@ -410,7 +410,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
-- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [edoardogerosa/dnsmorph](https://github.com/edoardogerosa/dnsmorph) - Domain name permutation engine written in Go
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -427,7 +427,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [haccer/subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
-- [netevert/dnsmorph](https://github.com/netevert/dnsmorph) - Domain name permutation engine written in Go
+- [edoardogerosa/dnsmorph](https://github.com/edoardogerosa/dnsmorph) - Domain name permutation engine written in Go
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [raz-varren/xsshell](https://github.com/raz-varren/xsshell) - An XSS reverse shell framework
