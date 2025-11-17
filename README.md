@@ -735,7 +735,7 @@
 
 ## others 
 
-- [ricardojoserf/SAMDump](https://github.com/ricardojoserf/SAMDump) - Extracts SAM and SYSTEM using Volume Shadow Copy (VSS) API with multiple exfiltration options and XOR obfuscation
+- [ricardojoserf/SAMDump](https://github.com/ricardojoserf/SAMDump) - Extract SAM and SYSTEM using Volume Shadow Copy (VSS) API. With multiple exfiltration options and XOR obfuscation
 - [marksowell/royalapplications-toolbox](https://github.com/marksowell/royalapplications-toolbox) - Royal Toolbox fork with Hammerspoon integration for enhanced connection management at launch.
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [vasilyprokopov/digitalocean-diagrams](https://github.com/vasilyprokopov/digitalocean-diagrams) - DigitalOcean Reference Architecture Diagrams
