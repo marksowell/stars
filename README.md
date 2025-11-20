@@ -762,7 +762,7 @@
 - [Windows-on-ARM-Experiments/mingw-woarm64-build](https://github.com/Windows-on-ARM-Experiments/mingw-woarm64-build) - Workflows and build scripts for Windows on Arm64 GNU cross-compiler for `aarch64-w64-mingw32` target.
 - [OWASP/www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
 - [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2) - 
-- [dagowda/DSViper](https://github.com/dagowda/DSViper) - This is for Ethical Use only.
+- [dagowda/DSViper](https://github.com/dagowda/DSViper) - This is for Ethical Use only. The default automated binaries created are all burned. I have added the script to the repo to modify certain signatures and it will still work.
 - [Eplox/subfuz](https://github.com/Eplox/subfuz) - A subdomain fuzzing tool
 - [mrfanii/Edit-This-Cookie-V3](https://github.com/mrfanii/Edit-This-Cookie-V3) - EditThisCookie (V3) is the famous Google Chrome/Chromium extension for editing cookies
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
