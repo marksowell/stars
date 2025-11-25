@@ -152,6 +152,7 @@
 
 ## automation 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - 💀 Don't fear the Reaper 👻
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -254,6 +255,7 @@
 
 ## cli 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
@@ -449,6 +451,7 @@
 
 ## hacking 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [r4ulcl/WiFiChallengeLab-docker](https://github.com/r4ulcl/WiFiChallengeLab-docker) - Virtualized WiFi pentesting laboratory without the need for physical WiFi cards, using mac80211_hwsim. Docker version of WiFiChallenge Lab with modifications in the challenges and improved stability. 
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
@@ -737,6 +740,9 @@
 
 ## others 
 
+- [hadriansecurity/subwiz](https://github.com/hadriansecurity/subwiz) - A lightweight GPT model, trained to discover subdomains.
+- [xnl-h4ck3r/urless](https://github.com/xnl-h4ck3r/urless) - De-clutter a list of URLs
+- [xnl-h4ck3r/xnldorker](https://github.com/xnl-h4ck3r/xnldorker) - Gather results of dorks across a number of search engines
 - [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) - AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [S3N4T0R-0X0/Malicious-PixelCode](https://github.com/S3N4T0R-0X0/Malicious-PixelCode) - Malicious PixelCode is a security research project that demonstrates a covert technique for encoding executable files into pixel data and storing them inside images or videos. A lightweight loader ret
 - [S3N4T0R-0X0/BEAR](https://github.com/S3N4T0R-0X0/BEAR) - Bear C2 is a compilation of C2 scripts, payloads, and stagers used in simulated attacks by Russian APT groups, Bear features a variety of encryption methods, including AES, XOR, DES, TLS, RC4, RSA and
@@ -1094,6 +1100,7 @@
 
 ## python 
 
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [mar10/wsgidav](https://github.com/mar10/wsgidav) - A generic and extendable WebDAV server based on WSGI
