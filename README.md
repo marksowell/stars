@@ -200,7 +200,7 @@
 
 ## aws 
 
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [marksowell/aws-account-finder](https://github.com/marksowell/aws-account-finder) - Find an AWS Account ID from any S3 Bucket
 - [ReversecLabs/awspx](https://github.com/ReversecLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
@@ -210,7 +210,7 @@
 
 ## azure 
 
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound) - Azure Data Exporter for BloodHound
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
@@ -493,7 +493,7 @@
 ## hacktoberfest 
 
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
@@ -1104,7 +1104,7 @@
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [mar10/wsgidav](https://github.com/mar10/wsgidav) - A generic and extendable WebDAV server based on WSGI
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) - Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - 💀 Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh
@@ -1204,7 +1204,7 @@
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
