@@ -740,6 +740,8 @@
 
 ## others 
 
+- [almounah/silph](https://github.com/almounah/silph) - Stealthy In-Memory Local Password Harvester (SILPH) tool: dump LSA, SAM and DCC2 with indirect syscall
+- [almounah/orsted](https://github.com/almounah/orsted) - Orsted C2 Framework
 - [hadriansecurity/subwiz](https://github.com/hadriansecurity/subwiz) - A lightweight GPT model, trained to discover subdomains.
 - [xnl-h4ck3r/urless](https://github.com/xnl-h4ck3r/urless) - De-clutter a list of URLs
 - [xnl-h4ck3r/xnldorker](https://github.com/xnl-h4ck3r/xnldorker) - Gather results of dorks across a number of search engines
