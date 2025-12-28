@@ -745,6 +745,7 @@
 
 ## others 
 
+- [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [almounah/silph](https://github.com/almounah/silph) - Stealthy In-Memory Local Password Harvester (SILPH) tool: dump LSA, SAM and DCC2 with indirect syscall
 - [almounah/orsted](https://github.com/almounah/orsted) - Orsted C2 Framework
 - [hadriansecurity/subwiz](https://github.com/hadriansecurity/subwiz) - A lightweight GPT model, trained to discover subdomains.
