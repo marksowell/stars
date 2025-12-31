@@ -746,6 +746,7 @@
 
 ## others 
 
+- [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 - [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [almounah/silph](https://github.com/almounah/silph) - Stealthy In-Memory Local Password Harvester (SILPH) tool: dump LSA, SAM and DCC2 with indirect syscall
 - [almounah/orsted](https://github.com/almounah/orsted) - Orsted C2 Framework
