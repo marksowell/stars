@@ -747,6 +747,7 @@
 
 ## others 
 
+- [juoum00000/NextRecon](https://github.com/juoum00000/NextRecon) - Advanced Recon tool for Bug Bounty and Pentesting
 - [matank001/Moxy](https://github.com/matank001/Moxy) - Moxy is an open-source DAST tool designed for modern web application security testing. It provides an easy-to-use interface with agentic capabilities to assist and automate pentesting workflows.
 - [zoom/task-manager-sample](https://github.com/zoom/task-manager-sample) - A showcase of the Zoom Developer Ecosystem and our Unified Build Flow
 - [postalsys/Muti-Metroo](https://github.com/postalsys/Muti-Metroo) - Self-hosted mesh tunneling with end-to-end encryption
