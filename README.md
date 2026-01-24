@@ -752,7 +752,7 @@
 - [zoom/task-manager-sample](https://github.com/zoom/task-manager-sample) - A showcase of the Zoom Developer Ecosystem and our Unified Build Flow
 - [postalsys/Muti-Metroo](https://github.com/postalsys/Muti-Metroo) - Self-hosted mesh tunneling with end-to-end encryption
 - [metalefty/xrdp-logo](https://github.com/metalefty/xrdp-logo) - 
-- [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
+- [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - AdaptixC2 is a highly modular advanced redteam toolkit
 - [la5nta/pat](https://github.com/la5nta/pat) - A cross-platform Winlink client written in Go
 - [almounah/silph](https://github.com/almounah/silph) - Stealthy In-Memory Local Password Harvester (SILPH) tool: dump LSA, SAM and DCC2 with indirect syscall
 - [almounah/orsted](https://github.com/almounah/orsted) - Orsted C2 Framework
