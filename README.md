@@ -59,6 +59,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -640,6 +641,13 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+
+## llm 
+
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 
 ## lua 
 
