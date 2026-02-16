@@ -770,7 +770,7 @@
 - [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) - AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [S3N4T0R-0X0/Malicious-PixelCode](https://github.com/S3N4T0R-0X0/Malicious-PixelCode) - Malicious PixelCode is a security research project that demonstrates a covert technique for encoding executable files into pixel data and storing them inside images or videos. A lightweight loader ret
 - [S3N4T0R-0X0/BEAR](https://github.com/S3N4T0R-0X0/BEAR) - Bear C2 is a compilation of C2 scripts, payloads, and stagers used in simulated attacks by Russian APT groups, Bear features a variety of encryption methods, including AES, XOR, DES, TLS, RC4, RSA and
-- [ricardojoserf/SAMDump](https://github.com/ricardojoserf/SAMDump) - Extract SAM and SYSTEM using Volume Shadow Copy (VSS) API. With multiple exfiltration options and XOR obfuscation
+- [ricardojoserf/SAMDump](https://github.com/ricardojoserf/SAMDump) - Extract the SAM and SYSTEM hives using the Volume Shadow Copy (VSS) API. With exfiltration and XOR obfuscation options. Implemented in C#, C++, Crystal and Python
 - [marksowell/royalapplications-toolbox](https://github.com/marksowell/royalapplications-toolbox) - Royal Toolbox fork with Hammerspoon integration for enhanced connection management at launch.
 - [MaximeBeasse/KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 - [vasilyprokopov/digitalocean-diagrams](https://github.com/vasilyprokopov/digitalocean-diagrams) - DigitalOcean Reference Architecture Diagrams
