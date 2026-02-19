@@ -571,7 +571,7 @@
 - [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
 - [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
-- [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
+- [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Mobile Application Pentest Tool for iOS and Android. Previously Passionfruit
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -700,7 +700,7 @@
 - [ReversecLabs/drozer](https://github.com/ReversecLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
+- [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) - (WIP) Runtime Mobile Application Pentest Tool for iOS and Android. Previously Passionfruit
 
 ## mongodb 
 
