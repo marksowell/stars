@@ -755,6 +755,7 @@
 
 ## others 
 
+- [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [juoum00000/NextRecon](https://github.com/juoum00000/NextRecon) - Advanced Recon tool for Bug Bounty and Pentesting
 - [matank001/Moxy](https://github.com/matank001/Moxy) - Moxy is an open-source DAST tool designed for modern web application security testing. It provides an easy-to-use interface with agentic capabilities to assist and automate pentesting workflows.
