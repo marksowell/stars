@@ -1124,6 +1124,7 @@
 
 ## python 
 
+- [SIA-IOTechnology/Kittysploit-framework](https://github.com/SIA-IOTechnology/Kittysploit-framework) - Python Exploitation Framework
 - [amitgy/seccheckmate](https://github.com/amitgy/seccheckmate) - Offline security checklist & report generator
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
