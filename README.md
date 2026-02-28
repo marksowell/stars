@@ -776,6 +776,7 @@
 
 ## others 
 
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [juoum00000/NextRecon](https://github.com/juoum00000/NextRecon) - Advanced Recon tool for Bug Bounty and Pentesting
