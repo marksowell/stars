@@ -788,6 +788,7 @@
 
 ## others 
 
+- [jonnysmillie/astro-theme-switcher](https://github.com/jonnysmillie/astro-theme-switcher) - A production-ready, token-based themeable design system for Astro. Build beautiful websites with runtime theme switching, semantic design tokens, and a comprehensive component library.
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
