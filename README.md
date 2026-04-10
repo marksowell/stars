@@ -468,6 +468,7 @@
 
 ## hacking 
 
+- [RLabs-Inc/wifikit](https://github.com/RLabs-Inc/wifikit) - WiFi pentesting toolkit for MacOS and Linux*. Pure Rust, single binary, real-time interactive CLI.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [r4ulcl/WiFiChallengeLab-docker](https://github.com/r4ulcl/WiFiChallengeLab-docker) - Virtualized Wi-Fi pentesting laboratory without the need for physical Wi-Fi cards, using mac80211_hwsim. Docker version of WiFiChallenge Lab with modifications in the challenges and improved stability
@@ -674,6 +675,7 @@
 
 ## macos 
 
+- [RLabs-Inc/wifikit](https://github.com/RLabs-Inc/wifikit) - WiFi pentesting toolkit for MacOS and Linux*. Pure Rust, single binary, real-time interactive CLI.
 - [marksowell/hammerspoon-menu-bar](https://github.com/marksowell/hammerspoon-menu-bar) - Lightweight Hammerspoon scripts that add real-time system indicators to the macOS menu bar. Includes battery and CPU alerts with ultra-low overhead.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [sieren/WidgetToggler](https://github.com/sieren/WidgetToggler) - macOS Sonoma Widget Toggler for the Tray Bar - Easily Show and Hide Widgets
