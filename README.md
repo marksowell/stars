@@ -325,7 +325,7 @@
 - [aress31/jwtcat](https://github.com/aress31/jwtcat) - A CPU-based JSON Web Token (JWT) cracker and - to some extent - scanner.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
-- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+- [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 
 ## dart 
 
@@ -504,7 +504,7 @@
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 - [0x00-0x00/ShellPop](https://github.com/0x00-0x00/ShellPop) - Pop shells like a master.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+- [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 
 ## hacktoberfest 
 
@@ -551,7 +551,7 @@
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder) - JustTryHarder, a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+- [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 
 ## homebridge 
