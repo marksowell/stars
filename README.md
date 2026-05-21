@@ -738,6 +738,7 @@
 
 ## nodejs 
 
+- [marksowell/zoom-oauth-playground](https://github.com/marksowell/zoom-oauth-playground) - Security-focused Zoom OAuth playground for testing confidential and PKCE flows locally.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [q-nick/npm-gui](https://github.com/q-nick/npm-gui) - Tired of the package.json dependency juggle? Meet npm-gui! We seamlessly integrate with npm, pnpm, or yarn. Managing, installing, and updating dependencies is as easy as it gets. Try npm-gui today and
@@ -789,6 +790,7 @@
 
 ## others 
 
+- [marksowell/multi_param_fuzz](https://github.com/marksowell/multi_param_fuzz) - A lightweight Python tool for grouped HTTP parameter fuzzing. Sends multiple query parameters per request to simulate scanner-style batch probing for SSTI, reflection, and hidden parameter discovery.
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [marksowell/conventional-commit-for-codex](https://github.com/marksowell/conventional-commit-for-codex) - A Codex skill for generating Conventional Commit messages with required scope and for handling reliable commit and sync workflows.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -1260,6 +1262,7 @@
 
 ## security 
 
+- [marksowell/zoom-oauth-playground](https://github.com/marksowell/zoom-oauth-playground) - Security-focused Zoom OAuth playground for testing confidential and PKCE flows locally.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
