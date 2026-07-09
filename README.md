@@ -981,7 +981,6 @@
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [zoom/webhook-sample](https://github.com/zoom/webhook-sample) - Receive Zoom webhooks.
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
-- [zoom/zoomapps-texteditor-vuejs](https://github.com/zoom/zoomapps-texteditor-vuejs) - A simple text editor Zoom App that demonstrates Collaborate Mode
 - [zoom/zoomapps-customlayout-js](https://github.com/zoom/zoomapps-customlayout-js) - A simple podcaster Zoom App to demonstrate Immersive Mode through our Layers API
 - [zoom/api](https://github.com/zoom/api) - Zoom API Version 2 Documentation
 - [zoom/zoomapps-sample-js](https://github.com/zoom/zoomapps-sample-js) - A Hello World Zoom App built with Vanilla JS
