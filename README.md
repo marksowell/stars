@@ -118,12 +118,14 @@
 
 - [hazcod/claudleak](https://github.com/hazcod/claudleak) - Hunt for AI coding artifacts containing secrets.
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - AI-Native Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
 - [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) - Live validation proxy tool for testing web app vulnerabilities
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 
 ## ai-agents 
 
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - AI-Native Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
 
 ## android 
 
@@ -735,7 +737,7 @@
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [hunvreus/pagescms](https://github.com/hunvreus/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
-- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - AI-Native Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## nodejs 
@@ -1414,7 +1416,7 @@
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
+- [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) - AI-Native Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [runmedev/vscode-runme](https://github.com/runmedev/vscode-runme) - DevOps Notebooks Built with Markdown - VS Code extension
 
