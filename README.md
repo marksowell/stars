@@ -973,7 +973,7 @@
 - [zeroc00I/AllVideoPocsFromHackerOne](https://github.com/zeroc00I/AllVideoPocsFromHackerOne) - This script grab public report from hacker one and make some folders with poc videos
 - [hmaverickadams/Windows-WiFi-Extractor](https://github.com/hmaverickadams/Windows-WiFi-Extractor) - Extract Windows Wi-Fi Passwords to Remote URL
 - [snyk/vscode-extension](https://github.com/snyk/vscode-extension) - Snyk extension for Visual Studio Code
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [zoom/zoomapps-advancedsample-react](https://github.com/zoom/zoomapps-advancedsample-react) - This repository contains an Advanced Zoom Apps Sample. It should serve as a starting point for you to build and test your own Zoom App in development.
 - [zoom/zoom-oauth-sample-app](https://github.com/zoom/zoom-oauth-sample-app) - Sample Zoom Oauth App NodeJS app to call Zoom's APIs
