@@ -92,6 +92,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -887,7 +888,6 @@
 - [oyyd/http-proxy-to-socks](https://github.com/oyyd/http-proxy-to-socks) - hpts(http-proxy-to-socks) is a nodejs client to convert socks proxy into http proxy
 - [iphelix/dnschef](https://github.com/iphelix/dnschef) - DNSChef - DNS proxy for Penetration Testers and Malware Analysts
 - [zoom/unsplash-chatbot](https://github.com/zoom/unsplash-chatbot) - Send Unsplash photos in Zoom Team Chat.
-- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [bugcrowd/tipjar](https://github.com/bugcrowd/tipjar) - 
 - [OWASP/www-project-mobile-top-10](https://github.com/OWASP/www-project-mobile-top-10) - 
 - [MobSF/RP4MobSF](https://github.com/MobSF/RP4MobSF) - a nginx reverse proxy with ssl and auth for MobSF
@@ -934,7 +934,6 @@
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) - 
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [Kris-Sekula/UCS-KVM](https://github.com/Kris-Sekula/UCS-KVM) - Some tips on getting into a UCS KVM without Adobe Flash Installed
-- [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [thatstraw/Cybersecurity-Roadmap](https://github.com/thatstraw/Cybersecurity-Roadmap) - 
@@ -1011,7 +1010,6 @@
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [XalfiE/Sharepoint-URL-Fuzzlist](https://github.com/XalfiE/Sharepoint-URL-Fuzzlist) - 
 - [Dheerajmadhukar/4-ZERO-3](https://github.com/Dheerajmadhukar/4-ZERO-3) - 403/401 Bypass Methods + Bash Automation + Your Support ;)
-- [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [PhishyAlice/awesome-phishing](https://github.com/PhishyAlice/awesome-phishing) - Collection of resources related to phishing
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [Lu3ky13/lu3ky13-SCANNER](https://github.com/Lu3ky13/lu3ky13-SCANNER) - tools to find xss in a website
@@ -1125,7 +1123,6 @@
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [CheckPointSW/UsefulManagementApiTools](https://github.com/CheckPointSW/UsefulManagementApiTools) - Check Point Useful Management API Tools contain scripts and tools that were used as solutions for customers.
 
@@ -1241,6 +1238,23 @@
 - [requestly/requestly](https://github.com/requestly/requestly) - Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.
 - [kyleboe/zoom_rb](https://github.com/kyleboe/zoom_rb) - Ruby REST API Wrapper for zoom.us API
 - [dsternlicht/RESTool](https://github.com/dsternlicht/RESTool) - RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. A live example:
+
+## reverse-engineering 
+
+- [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
+- [yazgx97/frida-ios-hook](https://github.com/yazgx97/frida-ios-hook) - A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform
+- [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+- [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+- [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
 ## ruby 
 
