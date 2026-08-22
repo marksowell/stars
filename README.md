@@ -679,6 +679,7 @@
 
 ## macos 
 
+- [marksowell/teely](https://github.com/marksowell/teely) - Teely is a local serverless launcher for macOS web apps that tees them up with friendly hostnames, on-demand startup, and built-in HTTPS, with Caddy handling the rest.
 - [RLabs-Inc/wifikit](https://github.com/RLabs-Inc/wifikit) - WiFi pentesting toolkit for MacOS and Linux*. Pure Rust, single binary, real-time interactive CLI.
 - [marksowell/hammerspoon-menu-bar](https://github.com/marksowell/hammerspoon-menu-bar) - Lightweight Hammerspoon scripts that add real-time system indicators to the macOS menu bar. Includes battery and CPU alerts with ultra-low overhead.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1373,6 +1374,7 @@
 
 ## serverless 
 
+- [marksowell/teely](https://github.com/marksowell/teely) - Teely is a local serverless launcher for macOS web apps that tees them up with friendly hostnames, on-demand startup, and built-in HTTPS, with Caddy handling the rest.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
