@@ -809,7 +809,6 @@
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [juoum00000/NextRecon](https://github.com/juoum00000/NextRecon) - Advanced Recon tool for Bug Bounty and Pentesting
 - [matank001/Moxy](https://github.com/matank001/Moxy) - Moxy is an open-source DAST tool designed for modern web application security testing. It provides an easy-to-use interface with agentic capabilities to assist and automate pentesting workflows.
 - [zoom/task-manager-sample](https://github.com/zoom/task-manager-sample) - A showcase of the Zoom Developer Ecosystem and our Unified Build Flow
 - [metalefty/xrdp-logo](https://github.com/metalefty/xrdp-logo) - 
