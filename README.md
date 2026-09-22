@@ -270,6 +270,7 @@
 
 ## chrome-extension 
 
+- [marksowell/textfree-exporter](https://github.com/marksowell/textfree-exporter) - Chrome extension for archiving TextFree conversations locally, with attachments and a coverage report.
 - [praetorian-inc/ChromeAlone](https://github.com/praetorian-inc/ChromeAlone) - A tool to transform Chromium browsers into a C2 Implant
 - [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome and Firefox extension that lists Amazon S3 Buckets while browsing
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
