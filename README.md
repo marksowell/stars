@@ -802,6 +802,7 @@
 
 ## others 
 
+- [intuitibits/nanopi-zero2-sensor](https://github.com/intuitibits/nanopi-zero2-sensor) - Minimal Armbian image for the NanoPi Zero2 with Intel BE200 Wi‑Fi 7 support, USB gadget networking, and wireless scanning tools.
 - [ELHart05/AirmonGUI](https://github.com/ELHart05/AirmonGUI) - A locally-hosted GUI for the aircrack-ng wireless auditing suite.
 - [marksowell/multi_param_fuzz](https://github.com/marksowell/multi_param_fuzz) - A lightweight Python tool for grouped HTTP parameter fuzzing. Sends multiple query parameters per request to simulate scanner-style batch probing for SSTI, reflection, and hidden parameter discovery.
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
