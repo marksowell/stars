@@ -281,7 +281,7 @@
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Catch API bugs before your users do
-- [clickswave/voyage](https://github.com/clickswave/voyage) - Recon and vulnerability scanning tools that run in your terminal. Find subdomains, scan ports, discover hidden paths, fingerprint what's running, and check it for vulns.
+- [clickswave/crossfyre-toolchain](https://github.com/clickswave/crossfyre-toolchain) - Recon and vulnerability scanning tools that run in your terminal. Find subdomains, scan ports, discover hidden paths, fingerprint what's running, and check it for vulns.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
@@ -1272,7 +1272,7 @@
 
 ## rust 
 
-- [clickswave/voyage](https://github.com/clickswave/voyage) - Recon and vulnerability scanning tools that run in your terminal. Find subdomains, scan ports, discover hidden paths, fingerprint what's running, and check it for vulns.
+- [clickswave/crossfyre-toolchain](https://github.com/clickswave/crossfyre-toolchain) - Recon and vulnerability scanning tools that run in your terminal. Find subdomains, scan ports, discover hidden paths, fingerprint what's running, and check it for vulns.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
