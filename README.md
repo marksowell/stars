@@ -1166,6 +1166,7 @@
 
 ## python 
 
+- [SilentMesh-Systems/Lure](https://github.com/SilentMesh-Systems/Lure) - Planted credentials that give the attacker away. A free safety net for any network: company IT, homes, offices, banks, hospitals, plants. Alerts on use, not on open. CLI, local dashboard and MCP for A
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [SIA-IOTechnology/Kittysploit-framework](https://github.com/SIA-IOTechnology/Kittysploit-framework) - Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator,....
 - [amitgy/seccheckmate](https://github.com/amitgy/seccheckmate) - Offline security checklist & report generator
