@@ -914,7 +914,7 @@
 - [guerreroag12/SSH_Brute_Force](https://github.com/guerreroag12/SSH_Brute_Force) - A simple python ssh brute forcer
 - [marksowell/Findings-Tracker](https://github.com/marksowell/Findings-Tracker) - Burp Suite extension designed to help security professionals manage and track web application security findings
 - [marksowell/Info-Leakage](https://github.com/marksowell/Info-Leakage) - Burp Suite extension designed to help security professionals search for custom sensitive information in HTTP responses
-- [akto-api-security/akto-burp-extension](https://github.com/akto-api-security/akto-burp-extension) - A Burp extension to send data to Akto dashboard
+- [akto-ai-security/akto-burp-extension](https://github.com/akto-ai-security/akto-burp-extension) - A Burp extension to send data to Akto dashboard
 - [Checkmarx/capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 - [akto-api-security/tests-library](https://github.com/akto-api-security/tests-library) - -
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Akto is the fastest growing AI Security platform for your teams to secure AI agents, MCPs, LLMs, Agent skills, Gen AI apps in your organization.
