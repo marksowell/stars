@@ -806,7 +806,7 @@
 - [marksowell/conventional-commit-for-codex](https://github.com/marksowell/conventional-commit-for-codex) - A Codex skill for generating Conventional Commit messages with required scope and for handling reliable commit and sync workflows.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [jonnysmillie/astro-theme-switcher](https://github.com/jonnysmillie/astro-theme-switcher) - A production-ready, token-based themeable design system for Astro. Build beautiful websites with runtime theme switching, semantic design tokens, and a comprehensive component library.
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - To gain access, please finish setting up this repository now at:
 - [ShipSecAI/studio](https://github.com/ShipSecAI/studio) - Workflow automation for Security Teams
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [matank001/Moxy](https://github.com/matank001/Moxy) - Moxy is an open-source DAST tool designed for modern web application security testing. It provides an easy-to-use interface with agentic capabilities to assist and automate pentesting workflows.
