@@ -682,6 +682,7 @@
 
 ## macos 
 
+- [moritzlg/AppExposeRestore](https://github.com/moritzlg/AppExposeRestore) - Restore minimized windows in macOS App Exposé
 - [marksowell/teely](https://github.com/marksowell/teely) - Local apps that run only when you use them. On-demand startup, idle shutdown, friendly .localhost URLs, and automatic HTTPS for macOS.
 - [RLabs-Inc/wifikit](https://github.com/RLabs-Inc/wifikit) - WiFi pentesting toolkit for MacOS and Linux*. Pure Rust, single binary, real-time interactive CLI.
 - [marksowell/hammerspoon-menu-bar](https://github.com/marksowell/hammerspoon-menu-bar) - Lightweight Hammerspoon scripts that add real-time system indicators to the macOS menu bar. Includes battery and CPU alerts with ultra-low overhead.
@@ -1407,6 +1408,7 @@
 
 ## swift 
 
+- [moritzlg/AppExposeRestore](https://github.com/moritzlg/AppExposeRestore) - Restore minimized windows in macOS App Exposé
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
